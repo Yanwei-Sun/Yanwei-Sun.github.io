@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yanwei Sun"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Student of OPerations at University of Washington, Seattle"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=n8b6xC0AAAAJ&view_op=list_works&gmla=AJsN-F6iP_Zgsm0Hmlk1Hfv9B6IpZgdILfmiTx5rwM96S47wWGA4koLiyiHLXIqa2l6DyCCMjVBRZjK14IUcuPF7j9szI9HT6zvaJuKwqYyVPLCLh10EH94"
+  email            : "ywsun@uw.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Yanwei-Sun-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/home"
   vine             :
   weibo            :
   xing             :
