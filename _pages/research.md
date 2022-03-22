@@ -7,8 +7,9 @@ author_profile: true
 
 
 
-
 ## Research Interests
+
+--------------------------------
 
  **Topics**: Operations on online platforms; Mechanism Design
 
@@ -20,6 +21,8 @@ author_profile: true
 
 ## Working Papers
 
+-------------
+
 - **Yanwei Sun**$^\ast$, Fupeng Sun, Chiwei Yan. Sequential Elimination Contests with All-pay Auctions. 
 
   
@@ -27,6 +30,8 @@ author_profile: true
   
 
 ## Undergraduate Publications
+
+---------------
 
 During my undergraduate study, I was very fortunate to work with Dr. Zhenjun Ming, Prof. [Janet K. Allen](https://scholar.google.com/citations?user=oJNeHV0AAAAJ&hl=en) and Prof. [Farrokh Mistree](https://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en) in the area of computational education. 
 
@@ -37,12 +42,6 @@ During my undergraduate study, I was very fortunate to work with Dr. Zhenjun Min
   
 
 $^\ast$ :  equal contribution or alphabetical order
-
-
-
-
-
-
 
 
 
