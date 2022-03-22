@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Yanwei Sun"
 title_separator          : "-"
 name                     : &name "Yanwei Sun"
 description              : &description "PhD Student of Operations Research at University of Washington, Seattle"
