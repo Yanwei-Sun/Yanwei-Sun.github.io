@@ -7,7 +7,8 @@ author_profile: true
 
 
 
-# Research Interests
+
+## Research Interests
 
  **Topics**: Operations on online platforms; Mechanism Design
 
@@ -17,7 +18,7 @@ author_profile: true
 
 
 
-# Working Papers
+## Working Papers
 
 - **Yanwei Sun**$^\ast$, Fupeng Sun, Chiwei Yan. Sequential Elimination Contests with All-pay Auctions. 
 
@@ -36,6 +37,13 @@ During my undergraduate study, I was very fortunate to work with Dr. Zhenjun Min
   
 
 $^\ast$ :  equal contribution or alphabetical order
+
+
+
+
+
+
+
 
 
 
