@@ -20,4 +20,4 @@ My research interest is around mechanism/marketplace design. Recently, I am work
 
 ### News
 
-- I am extremely sad to share that because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043), I have no choice but to quit from UW. I will join in Imperial [Imperial College Business School](https://www.imperial.ac.uk/business-school/) this summer to pursue my PhD study in [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/). 
+- I am extremely sad to share that because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043), I have no choice but to quit from UW. I will join in [Imperial College Business School](https://www.imperial.ac.uk/business-school/) this summer to pursue my PhD study in [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/). 
