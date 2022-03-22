@@ -6,12 +6,11 @@ author_profile: true
 ---
 
 
-
 ## Research Interests
 
 --------------------------------
 
- **Topics**: Operations on online platforms; Mechanism Design
+ **Topics**: Mechanism Design; Revenue Management
 
 **Methodologies**: Game Theory; Stochastic Process; 
 
