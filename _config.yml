@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanwei Sun"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yanwei Sun"
-description              : &description "PhD Student of Operations at University of Washington, Seattle"
+description              : &description "PhD Student of Operations Research at University of Washington, Seattle"
 url                      : https://yanwei-sun.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yanwei-Sun/yanwei-sun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yanwei Sun"
   avatar           : "YanweiSun_Shuizhen_Beijing.jpg"
-  bio              : "PhD Student of Operations at University of Washington, Seattle"
+  bio              : "PhD Student of Operations Research at University of Washington, Seattle"
   location         : 
   employer         :
   pubmed           : 
