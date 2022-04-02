@@ -13,10 +13,10 @@ Welcome! I am a first-year (2021 Fall) PhD student of Operations Research (remot
 
 
 
-My research interest is around mechanism/marketplace design. Recently, I am working on signal-free intersection management and contests design. 
+My research interest is around mechanism/market design and revenue management. Recently, I am working on signal-free intersection management and contests design. 
 
 
 
 ### News
 
-- I am extremely sorry to share that because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043), I have no choice but to quit from UW. I will join in [Imperial College Business School](https://www.imperial.ac.uk/business-school/) this autumn to continue my PhD study in [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/). 
+- I am sorry to say that because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043), I have no choice but to quit from UW. I will join in [Imperial College Business School](https://www.imperial.ac.uk/business-school/) this autumn to continue my PhD study in [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/). 
