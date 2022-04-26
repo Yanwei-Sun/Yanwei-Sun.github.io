@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=n8b6xC0AAAAJ&view_op=list_works&gmla=AJsN-F6iP_Zgsm0Hmlk1Hfv9B6IpZgdILfmiTx5rwM96S47wWGA4koLiyiHLXIqa2l6DyCCMjVBRZjK14IUcuPF7j9szI9HT6zvaJuKwqYyVPLCLh10EH94"
   email            : "ywsun@uw.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Yanwei-Sun-6"
+#   researchgate     :  "https://www.researchgate.net/profile/Yanwei-Sun-6"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/home"
+  twitter          : "https://twitter.com/yanwei_sun"
   vine             :
   weibo            :
   xing             :
