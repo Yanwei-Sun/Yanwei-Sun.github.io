@@ -22,9 +22,9 @@ author_profile: true
 
 -------------
 
-- **Yanwei Sun**$^\ast$, Fupeng Sun, Chiwei Yan. Sequential Elimination Contests with All-pay Auctions. 
+- **Yanwei Sun**$^\ast$, Fupeng Sun, Chiwei Yan, Li Jin. Sequential Elimination Contests with All-pay Auctions. 
 
-  
+ 
 
   
 
