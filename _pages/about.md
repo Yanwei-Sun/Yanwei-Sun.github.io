@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### About Me
 
-Welcome! I am a first-year (2021 Fall) PhD student of [Operations Research](https://ise.washington.edu/) (remote enrollment) at [University of Washington (UW), Seattle](https://www.washington.edu/). I am very fortunate to work with Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html) and Prof. [Li Jin](https://jinli.ji.sjtu.edu.cn/).  Prior to UW, I obtained my undergraduate degree (with summa cum laude) in Industrial Engineering from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2021.
+Welcome! I am a first-year (2021 Fall) PhD student of [Operations Research](https://ise.washington.edu/) (remote) at [University of Washington (UW), Seattle](https://www.washington.edu/). I am very fortunate to work with Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html) and Prof. [Li Jin](https://jinli.ji.sjtu.edu.cn/).  Prior to UW, I obtained my undergraduate degree (with summa cum laude) in Industrial Engineering from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2021.
 
 
 
