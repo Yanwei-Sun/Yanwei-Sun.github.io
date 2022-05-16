@@ -13,7 +13,8 @@ Welcome! I am a first-year (2021 Fall) PhD student of [Operations Research](http
 
 
 
-My research interest is around **mechanism/market design** and **revenue management**. When analyzing these problems, I am broadly interested in tools from *game theory*, *stochastic process*, *statistics*, and *optimization*. Recently, my research centers around transportation system, and contests design.
+My research interest is around **mechanism/market design** and **revenue management**. When analyzing these problems, I am broadly interested in tools from *game theory*, *stochastic process*, *statistics*, and *optimization*. 
+<!-- Recently, my research centers around transportation system, and contests design. -->
 
 
 ### News
