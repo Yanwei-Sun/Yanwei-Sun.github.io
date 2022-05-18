@@ -10,7 +10,7 @@ author_profile: true
 
 --------------------------------
 
- **Topics**: Mechanism Design; Revenue Management.
+ **Topics**: Mechanism/Market Design; Revenue Management.
 
 **Methodologies**: Game Theory; Optimization; Stochastic Process; Statistics. 
 
