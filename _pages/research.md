@@ -10,9 +10,6 @@ author_profile: true
 
 --------------------------------
 
-<!-- **Mechanism/Market Design**; **Revenue Management**; **Sharing Economy.**
-
-<!-- **Methodologies**: Game Theory; Optimization; Stochastic Process; Statistics.  --> -->
 
 Mechanism/Market Design; Revenue Managment; Sharing Economy.
 
