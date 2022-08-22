@@ -11,7 +11,7 @@ author_profile: true
 --------------------------------
 
 
-Mechanism/Market Design; Revenue Managment; Sharing Economy.
+Mechanism Design; Game Theory; Market Design.
 
 
 
