@@ -13,7 +13,7 @@ Welcome! I am a first-year (2021 Fall) PhD student of [Operations Research](http
 
 
 
-My research centers around **mechanism** and **market design**. Recently, I hold a particular interest in online platforms and intelligent transportations with strategic agents. When analyzing these problems, I am broadly interested in tools from *game theory*, *stochastic process*, *optimization*, and *statistics*.
+My research centers around **mechanism** and **market design**. Recently, I hold a particular interest in online platforms with strategic agents. When analyzing these problems, I am broadly interested in tools from *game theory*, *stochastic process*, *optimization*, and *statistics*.
 
 
 ### News
