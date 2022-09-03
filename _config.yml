@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanwei Sun"
 title_separator          : "-"
 name                     : &name "Yanwei Sun"
-description              : &description "PhD Student of Operations Research at University of Washington, Seattle"
+description              : &description "PhD Student of Operations Research at Imperial College Business School"
 url                      : https://yanwei-sun.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yanwei-Sun/yanwei-sun.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yanwei Sun"
   avatar           : "YanweiSun.jpg"
-  bio              : "PhD Student of Operations Research at University of Washington, Seattle"
+  bio              : "PhD Student of Operations Research at Imperial College Business School"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=n8b6xC0AAAAJ&view_op=list_works&gmla=AJsN-F6iP_Zgsm0Hmlk1Hfv9B6IpZgdILfmiTx5rwM96S47wWGA4koLiyiHLXIqa2l6DyCCMjVBRZjK14IUcuPF7j9szI9HT6zvaJuKwqYyVPLCLh10EH94"
-  email            : "ywsun@uw.edu"
+  email            : "y.sun22@imperial.ac.uk"
 #   researchgate     :  "https://www.researchgate.net/profile/Yanwei-Sun-6"
   uri              :
   bitbucket        :
