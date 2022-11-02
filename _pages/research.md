@@ -23,7 +23,7 @@ Mechanism Design; Market Design; Online Platforms; Transportation Systems.
 
  
 
-  
+  $^\ast$ :  equal contribution or alphabetical order
 
 ## Undergraduate Publications
 
@@ -35,7 +35,7 @@ During my undergraduate study, I was very fortunate to work with Dr. Zhenjun Min
   - Conference version:  *[Assessment of Student Learning through Reflection on Doing in Engineering Design](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2021/85406/V004T04A009/1128083?redirectedFrom=PDF)*. *ASME Conference on Design Engineering, Virtual*. Paper Number IDETC 2021-70250.  
 
 
-$^\ast$ :  equal contribution or alphabetical order
+
 
 
 
