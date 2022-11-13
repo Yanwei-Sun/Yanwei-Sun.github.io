@@ -33,7 +33,7 @@ $^\ast$ :  equal contribution or alphabetical order
 
 During my undergraduate study, I was very fortunate to work with Dr. Zhenjun Ming, Prof. [Janet K. Allen](https://scholar.google.com/citations?user=oJNeHV0AAAAJ&hl=en) and Prof. [Farrokh Mistree](https://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en) in the area of *computational education*. 
 
-- **Yanwei Sun**, Peng Shan, Zachary Ball, Zhenjun Ming, Janet K. Allen, Farrokh Mistree. [*Assessment of Student Learning through Reflection on Doing Using the Latent Dirichlet Algorithm*.](https://asmedigitalcollection.asme.org/mechanicaldesign/article/doi/10.1115/1.4055376/1145784/Assessment-of-Student-Learning-through-Reflection) ***Journal of Mechanical Design**.* 
+- **Yanwei Sun**, Peng Shan, Zachary Ball, Zhenjun Ming, Janet K. Allen, Farrokh Mistree. [*Assessment of Student Learning through Reflection on Doing Using the Latent Dirichlet Algorithm*.](https://asmedigitalcollection.asme.org/mechanicaldesign/article/doi/10.1115/1.4055376/1145784/Assessment-of-Student-Learning-through-Reflection) ***Journal of Mechanical Design**. Forthcoming. 
   - Conference version:  *[Assessment of Student Learning through Reflection on Doing in Engineering Design](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2021/85406/V004T04A009/1128083?redirectedFrom=PDF)*. *ASME Conference on Design Engineering, Virtual*. Paper Number IDETC 2021-70250.  
 
 
