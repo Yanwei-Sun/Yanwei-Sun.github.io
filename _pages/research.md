@@ -22,7 +22,7 @@ Mechanism Design; Market Design; Online Platforms; Transportation Systems.
 $^\ast$ :  equal contribution or alphabetical order
 
 
-- Fupeng Sun, **Yanwei Sun**$^\ast$, Chiwei Yan, Li Jin. [Sequential Elimination Contests with All-pay Auctions](https://arxiv.org/abs/2205.08104). 
+- Fupeng Sun, **Yanwei Sun**$^\ast$, Chiwei Yan, Li Jin. [Sequential Elimination Contests with All-pay Auctions](https://arxiv.org/abs/2205.08104). under revision
 
  
 
