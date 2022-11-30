@@ -13,7 +13,7 @@ author_profile: true
 <!-- 
 Mechanism Design; Market Design; Online Platforms; Transportation Systems. -->
 
-**Mechanism design:** Information Design; Intelligent Transportation; Auctions.
+**Mechanism Design:** Smart City Operations; Information Design; Auctions.
 
 **Market Design:** Food Delivery; Ride-hailing. 
 
