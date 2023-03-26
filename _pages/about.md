@@ -11,8 +11,11 @@ redirect_from:
 
 Welcome! I am a first-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial College Business School](https://www.imperial.ac.uk/business-school/). Previously, I spent one year working with Dr. [Chiwei Yan](https://yanchiwei.github.io/index.html) and Dr. [Li Jin ](https://jinli.ji.sjtu.edu.cn/) at [University of Washington (UW), Seattle](https://www.washington.edu/) as a PhD student (remotely, quit because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043)). Prior to UW, I obtained my undergraduate degree (with summa cum laude) in Industrial Engineering from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2021.
 
-My research centers around **mechanism** and **market design**. Recently, I hold a particular interest in problems from *<u>online platforms</u>* and *<u>smart city operations</u>* with *<u>strategic agents</u>*. When analyzing these problems, I am broadly interested in tools from *game theory*, *stochastic process*, *optimization*, and *statistics*.
+My research centers around **mechanism** and **market design**. Recently, I hold a particular interest in *three-sided marketplace* and *information design*.
 
+
+<!-- Recently, I hold a particular interest in problems from *<u>online platforms</u>* and *<u>smart city operations</u>* with *<u>strategic agents</u>*. When analyzing these problems, I am broadly interested in tools from *game theory*, *stochastic process*, *optimization*, and *statistics*.
+ -->
 
 
 <!-- ### News
