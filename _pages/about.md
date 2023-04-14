@@ -13,6 +13,8 @@ Welcome! I am a first-year (2022 Fall) PhD student of [Analytics & Operations](h
 
 My research centers around **mechanism** and **market design**. Recently, I hold a particular interest in *three-sided marketplace* and *information design*.
 
+<!-- My research centers around **mechanism**, **information** and **market** design. Recently, I hold a particular interest in *transaction fee mechanism*, *information design with privacy*, and *three-sided marketplace*. 
+ -->
 
 <!-- Recently, I hold a particular interest in problems from *<u>online platforms</u>* and *<u>smart city operations</u>* with *<u>strategic agents</u>*. When analyzing these problems, I am broadly interested in tools from *game theory*, *stochastic process*, *optimization*, and *statistics*.
  -->
