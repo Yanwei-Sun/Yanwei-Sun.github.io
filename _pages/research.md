@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-## Research Interests
-
+<!-- ## Research Interests
 --------------------------------
-
+Mechanism Design, Market Design; Information Design.
+Auctions; Three-sided marketplace; Online Platforms
 
 **Mechanism Design:** Information Design; Auctions.
 
-**Market Design:** Three-sided marketplace
+**Market Design:** Three-sided marketplace -->
 
 
 
@@ -23,8 +23,8 @@ author_profile: true
 
 $^\ast$ :  equal contribution or alphabetical order
 
-- Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993). 
 - Fupeng Sun, **Yanwei Sun**$^\ast$, Chiwei Yan, Li Jin. [Sequential Elimination Contests with All-pay Auctions](https://arxiv.org/abs/2205.08104). 
+- Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993). 
 
  
 
