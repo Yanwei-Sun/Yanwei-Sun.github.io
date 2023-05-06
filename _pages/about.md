@@ -24,4 +24,4 @@ My research centers around **mechanism & market design** and **information desig
 
 ### News
 
-- Updated draft [Sequential Elimination Contests with All-Pay Auctions](https://arxiv.org/abs/2205.08104). Thanks to all of my co-authors.
+-(April, 2023) Updated draft [Sequential Elimination Contests with All-Pay Auctions](https://arxiv.org/abs/2205.08104). Thanks to all of my co-authors.
