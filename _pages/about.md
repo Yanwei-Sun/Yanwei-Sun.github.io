@@ -22,7 +22,6 @@ My research centers around **mechanism & market design** and **information desig
  -->
 
 
-<!-- ### News
+### News
 
-- Excited to share that my undergraduate work \<*Assessment of Student Learning through Reflection on Doing Using the Latent Dirichlet Algorithm*\> was finally accepted by Journal of Mechanical Design! Thanks so much to all of my collaborators. 
- -->
+- Updated draft [Sequential Elimination Contests with All-Pay Auctions](https://arxiv.org/abs/2205.08104). Thanks to all of my co-authors.
