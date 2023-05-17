@@ -24,7 +24,7 @@ Auctions; Three-sided marketplace; Online Platforms
 $^\ast$ :  equal contribution or alphabetical order
 
 - Fupeng Sun, **Yanwei Sun**$^\ast$, Chiwei Yan, Li Jin. [Sequential Elimination Contests with All-pay Auctions](https://arxiv.org/abs/2205.08104). 
-  - RMP 2023
+  - Revenue Management and Pricing (RMP) Section Conference 2023
 - Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993). 
 
  
