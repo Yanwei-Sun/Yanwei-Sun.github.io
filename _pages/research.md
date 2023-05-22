@@ -27,7 +27,8 @@ Auctions; Three-sided marketplace; Online Platforms
 ## Working in Progress
 
 -------------
-- Operating Three-sided Marketplace: Pricing, Spatial Staffing and Routing in Food Delivery Systems, with Zhe Liu and Yiwen Shen.
+- Operating Three-sided Marketplace: Pricing, Spatial Staffing and Routing in Food Delivery Systems.
+  -  with Zhe Liu and Yiwen Shen
 
 
 
