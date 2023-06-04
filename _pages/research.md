@@ -40,7 +40,7 @@ $^\ast$ :  equal contribution or alphabetical order
 
 - Fupeng Sun, **Yanwei Sun**$^\ast$, Chiwei Yan, Li Jin. [Sequential Elimination Contests with All-pay Auctions](https://arxiv.org/abs/2205.08104). 
   - Revenue Management and Pricing (RMP) Section Conference 2023
-- Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993). 
+- Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993).[[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
 
  
 
