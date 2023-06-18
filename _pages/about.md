@@ -26,5 +26,5 @@ My research centers around **mechanism & market design** and **information desig
 
 ### News
 
-- (April, 2023) Updated draft [Sequential Elimination Contests with All-Pay Auctions](https://arxiv.org/abs/2205.08104).
-- (February, 2023) New draft [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993).
+- (April, 2023) Updated preprint [Sequential Elimination Contests with All-Pay Auctions](https://arxiv.org/abs/2205.08104).
+- (February, 2023) New preprint [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993).
