@@ -9,9 +9,9 @@ redirect_from:
 ---
 ### About Me
 
-Welcome! I am a first-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial College Business School](https://www.imperial.ac.uk/business-school/), where I am very fortunate to work with Dr. [Zhe Liu](https://blogs.imperial.ac.uk/zhe-liu/about/) and Dr. [Chiwei Yan](https://yanchiwei.github.io/index.html). Previously, I spent one year at [University of Washington (UW), Seattle](https://www.washington.edu/) working with Dr. [Chiwei Yan](https://yanchiwei.github.io/index.html) and Dr. [Li Jin ](https://jinli.ji.sjtu.edu.cn/). Prior to UW, I obtained my bachelor degree (with summa cum laude) in Industrial Engineering from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2021.
+Welcome! I am a first-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial College Business School](https://www.imperial.ac.uk/business-school/), where I am very fortunate to work with Dr. [Zhe Liu](https://blogs.imperial.ac.uk/zhe-liu/about/) and Dr. [Chiwei Yan](https://yanchiwei.github.io/index.html). Previously, I spent one year at [University of Washington (UW), Seattle](https://www.washington.edu/) working with Dr. [Chiwei Yan](https://yanchiwei.github.io/index.html) and Dr. [Li Jin ](https://jinli.ji.sjtu.edu.cn/) as a PhD student (remotely, quit because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043)). Prior to UW, I obtained my bachelor degree (with summa cum laude) in Industrial Engineering from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2021.
 
-<!-- s a PhD student (remotely, quit because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043))  -->
+
 
 My research centers around **mechanism & market design** and **information design**. 
 
