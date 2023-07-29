@@ -19,7 +19,7 @@ Auctions; Three-sided marketplace; Online Platforms
 ## Research Interests
 --------------------------------
 
-**Mechanism & Market Design**: Auctions; Three-sided marketplace.
+**Mechanism & Market Design**: Three-sided marketplace; Auctions.
 
 **Information Design**: Bayesian Persuasion.
 
