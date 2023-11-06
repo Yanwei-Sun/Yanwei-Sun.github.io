@@ -42,7 +42,7 @@ $^\ast$ :  equal contribution or alphabetical order
 
 - Fupeng Sun, **Yanwei Sun**$^\ast$, Chiwei Yan, Li Jin. [Sequential Elimination Contests with All-pay Auctions](https://arxiv.org/abs/2205.08104).
 <!-- - [[Poster]](https://github.com/Yanwei-Sun/Yanwei-Sun.github.io/blob/a71896b256598e9689fcb70f3f49d592cadb3d98/files/SEC_poster.pdf)  [[Slide]](https://github.com/Yanwei-Sun/Yanwei-Sun.github.io/blob/6848520e15ce623cbd8427039ff66aa9086cf922/files/slide_SEC.pdf) -->
-- Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993), under major revision.[[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
+- Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993).[[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
 
  
 
