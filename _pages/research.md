@@ -50,7 +50,7 @@ $^\ast$ :  equal contribution or alphabetical order
  
 ## Journal Publications
 -------------
-- Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993), **SIAM Journal on Mathematics of Data Science (SIMODS)**, accepted.[[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
+- Chiwei Yan, James Johndrow, Dawn Woodard, **Yanwei Sun**. [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993), _**SIAM Journal on Mathematics of Data Science (SIMODS)**_, accepted.[[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
 
 
 ## Undergraduate Publications
