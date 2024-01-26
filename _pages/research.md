@@ -44,7 +44,7 @@ Market & Mechanism Design, Information Design.
 $^\ast$ :  equal contribution or alphabetical order
 
 - Zhe Liu, Yiwen Shen, **Yanwei Sun**$^\ast$. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867).
-- Fupeng Sun, **Yanwei Sun**$^\ast$, Chiwei Yan, Li Jin. [Sequential Elimination Contests with All-pay Auctions](https://arxiv.org/abs/2205.08104).
+- Fupeng Sun, **Yanwei Sun**$^\ast$, Chiwei Yan, Li Jin. [Sequential Elimination Contests with All-pay Auctions](https://arxiv.org/abs/2205.08104). under revision.
 <!-- - [[Poster]](https://github.com/Yanwei-Sun/Yanwei-Sun.github.io/blob/a71896b256598e9689fcb70f3f49d592cadb3d98/files/SEC_poster.pdf)  [[Slide]](https://github.com/Yanwei-Sun/Yanwei-Sun.github.io/blob/6848520e15ce623cbd8427039ff66aa9086cf922/files/slide_SEC.pdf) -->
 
  
