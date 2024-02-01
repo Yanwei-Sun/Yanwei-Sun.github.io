@@ -14,7 +14,9 @@ Welcome! I am a second-year (2022 Fall) PhD student of [Analytics & Operations](
 
 <!-- as a PhD student (remotely, quit because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043)) -->
 
-My research centers around **mechanism & market design** and **information design**. 
+My interest lies in addressing _operations problems with incentive constraints_, with a recent focus on _platform & mechanism design_, and _information design_.
+
+<!--My research centers around **mechanism & market design** and **information design**. -->
 
 <!-- Recently, I hold a particular interest in *three-sided marketplace* and *information design*. -->
 
