@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  YanweiSun2.jpg
+og_image                 :  Yanwei_imperial_new.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yanwei Sun"
-  avatar           : "YanweiSun2.jpg"
+  avatar           : "Yanwei_imperial_new.jpg"
   bio              : "PhD Student of Operations Research at Imperial College Business School"
   location         : 
   employer         :
