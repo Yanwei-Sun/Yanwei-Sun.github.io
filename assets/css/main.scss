@@ -41,16 +41,14 @@
 @import "print";
 
 /* Sticky Header Styles */
-.masthead {
+/* Increasing specificity */
+html .masthead {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 1030; // Adjust this value based on your site’s needs, ensuring it's higher than other elements
-    background-color: #fff; // Ensure the header's background is not transparent
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); // Optional: adds a shadow for better visibility
+    z-index: 1030;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-body {
-    padding-top: 70px; // Adjust this value based on the actual height of your header
-}
