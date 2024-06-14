@@ -57,6 +57,7 @@ $^\ast$ :  equal contribution or alphabetical order
 - Chiwei Yan, James Johndrow, Dawn Woodard, Yanwei Sun. [Efficiency of ETA Prediction](https://epubs.siam.org/doi/abs/10.1137/23M155699X?journalCode=sjmdaq), _SIAM Journal on Mathematics of Data Science (SIMODS)_, 6(2): 227-253, 2024.[[arXiv](https://arxiv.org/abs/2112.09993)][[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
 
 
+<!--
 ## Undergraduate Publications
 
 ---------------
@@ -65,7 +66,7 @@ During my undergraduate study, I was very fortunate to work with Dr. Zhenjun Min
 
 - Yanwei Sun, Peng Shan, Zachary Ball, Zhenjun Ming, Janet K. Allen, Farrokh Mistree. [Assessment of Student Learning through Reflection on Doing Using the Latent Dirichlet Algorithm.](https://asmedigitalcollection.asme.org/mechanicaldesign/article/doi/10.1115/1.4055376/1145784/Assessment-of-Student-Learning-through-Reflection) *Journal of Mechanical Design*. December 2022; 144(12): 122301 
   - Conference version:  [Assessment of Student Learning through Reflection on Doing in Engineering Design](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2021/85406/V004T04A009/1128083?redirectedFrom=PDF). *ASME Conference on Design Engineering, Virtual*. Paper Number IDETC 2021-70250.  
-
+-->
 
 
 
