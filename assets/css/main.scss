@@ -40,15 +40,48 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Sticky Header Styles */
-/* Increasing specificity */
+// /* Sticky Header Styles */
+// /* Increasing specificity */
+// html .masthead {
+//     position: fixed;
+//     top: 0;
+//     left: 0;
+//     width: 100%;
+//     z-index: 1030;
+//     background-color: #fff;
+//     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+// }
+
+/* Sticky Header Styles - Complete Setup */
 html .masthead {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    z-index: 1030;
-    background-color: #fff;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    right: 0;  /* Ensures the header extends only to the right edge of the viewport */
+    width: auto;  /* Adjust width to be automatic */
+    z-index: 1030; /* Keeps the header above other content */
+    background-color: #fff; /* Provides a solid background color */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Adds subtle shadow for better layering */
+    box-sizing: border –box; /* Includes padding and border in the element's total width and height */
+    padding-left: 10px; /* Left padding for content within the header */
+    padding-right: 10px; /* Right padding for content within the header */
 }
+
+/* Adjust body padding to prevent content from hiding behind the sticky header */
+body {
+    padding-top: 100px; /* Adjust based on your header's actual height */
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    html .masthead {
+        padding-left: 5px; /* Smaller left padding on smaller screens */
+        padding-right: 5px; /* Smaller right padding on smaller screens */
+    }
+
+    body {
+        padding-top: 80px; /* Reduced top padding for smaller screens */
+    }
+}
+
 
