@@ -46,7 +46,7 @@ $^\ast$ :  equal contribution
 - Yanwei Sun, Zhe Liu, Chiwei Yan. Polling Systems with Strategic Customers.
 - Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing of Supply Competition in Lead-Selling Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681).
   - _Proceedings of the ACM Conference on Economics and Computation (EC), 2024._
-- $(\alpha - \beta)$ Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867).
+- ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867).
 - Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104.pdf). under major revision, _International Journal of Game Theory_. last update: March 2024.
   - _Proceedings of the ACM Conference on Economics and Computation (EC), 2024._
 
