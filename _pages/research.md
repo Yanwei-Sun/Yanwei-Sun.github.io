@@ -43,7 +43,7 @@ Marketplace & Mechanism Design, Information Design.
 
 $^\ast$ :  equal contribution
 
-- Yanwei Sun, Zhe Liu, Chiwei Yan. Polling Systems with Strategic Customers.
+- Yanwei Sun, Zhe Liu, Chiwei Yan. Polling Systems with Delay-Sensitive Customers.
 - Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing of Supply Competition in Lead-Selling Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681).
   - _Proceedings of the ACM Conference on Economics and Computation (EC), 2024._
 - ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867).
