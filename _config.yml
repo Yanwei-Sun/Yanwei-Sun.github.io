@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanwei Sun"
 title_separator          : "-"
 name                     : &name "Yanwei Sun"
-description              : &description "PhD Student of Operations Research at Imperial College Business School"
+description              : &description "PhD Student of Analytics & Operations @ Imperial College Business School"
 url                      : https://yanwei-sun.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yanwei-Sun/yanwei-sun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yanwei Sun"
   avatar           : "yanwei_imperail_avatar.png"
-  bio              : "PhD Student of Operations Research at Imperial College Business School"
+  bio              : "PhD Student of Analytics & Operations @ Imperial College Business School"
   location         : 
   employer         :
   pubmed           : 
