@@ -67,4 +67,14 @@ body {
     vertical-align: middle;
 }
 
+/* Hyperlink color customization */
+a {
+  color: blue; /* Normal state */
+}
+
+a:hover {
+  color: darkblue; /* Hover state */
+}
+
+
 
