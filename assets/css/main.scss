@@ -78,14 +78,22 @@ body {
 // }
 
 
-/* Hyperlink color customization */
+// /* Hyperlink color customization */
+// a {
+//   color: blue; /* Normal state */
+// }
+
+// a:hover {
+//   color: darkblue; /* Hover state */
+// }
+
+
+/* Custom Hyperlink Colors */
 a {
-  color: blue; /* Normal state */
+  color: forestgreen; /* Sets the hyperlink color to forestgreen, a more subdued green */
 }
 
 a:hover {
-  color: darkblue; /* Hover state */
+  color: darkgreen; /* Darker green on hover for a nice effect */
 }
-
-
 
