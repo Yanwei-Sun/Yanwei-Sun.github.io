@@ -67,13 +67,15 @@ body {
     vertical-align: middle;
 }
 
-/* Hyperlink color customization */
+
+
+/* Custom Hyperlink Colors */
 a {
-  color: blue; /* Normal state */
+  color: mediumaquamarine; /* Sets the hyperlink color to blue-green */
 }
 
 a:hover {
-  color: darkblue; /* Hover state */
+  color: darkcyan; /* Darker blue-green on hover */
 }
 
 
