@@ -98,13 +98,26 @@ body {
 // }
 
 
+// /* Custom Hyperlink Colors */
+// a {
+//   color: #003153; /* Sets the hyperlink color to Prussian blue */
+// }
+
+// a:hover {
+//   color: #001d33; /* A darker shade for hover effects */
+// }
+
+
 /* Custom Hyperlink Colors */
+/* Setting the primary hyperlink color to Klein Blue, a vivid and distinctive shade */
 a {
-  color: #003153; /* Sets the hyperlink color to Prussian blue */
+  color: #002FA7; /* Klein Blue */
 }
 
+/* Enhancing hyperlink interaction with a hover effect */
+/* This darker shade provides a subtle change when the user hovers over a link */
 a:hover {
-  color: #001d33; /* A darker shade for hover effects */
+  color: #001B75; /* Darker Klein Blue */
 }
 
 
