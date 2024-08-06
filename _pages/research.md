@@ -56,7 +56,7 @@ $^\ast$ :  equal contribution
  
 ## Journal Publications
 -------------
-- Chiwei Yan, James Johndrow, Dawn Woodard, Yanwei Sun. [Efficiency of ETA Prediction](https://epubs.siam.org/doi/abs/10.1137/23M155699X?journalCode=sjmdaq), _SIAM Journal on Mathematics of Data Science (SIMODS)_, 6(2): 227-253, 2024.[[arXiv](https://arxiv.org/abs/2112.09993)][[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
+- Chiwei Yan, James Johndrow, Dawn Woodard, Yanwei Sun. [Efficiency of ETA Prediction](https://epubs.siam.org/doi/abs/10.1137/23M155699X?journalCode=sjmdaq), **_SIAM Journal on Mathematics of Data Science (SIMODS)_**, 6(2): 227-253, 2024.[[arXiv](https://arxiv.org/abs/2112.09993)][[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
 
 
 <!--
