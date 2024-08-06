@@ -88,12 +88,23 @@ body {
 // }
 
 
+// /* Custom Hyperlink Colors */
+// a {
+//   color: forestgreen; /* Sets the hyperlink color to forestgreen, a more subdued green */
+// }
+
+// a:hover {
+//   color: darkgreen; /* Darker green on hover for a nice effect */
+// }
+
+
 /* Custom Hyperlink Colors */
 a {
-  color: forestgreen; /* Sets the hyperlink color to forestgreen, a more subdued green */
+  color: #003153; /* Sets the hyperlink color to Prussian blue */
 }
 
 a:hover {
-  color: darkgreen; /* Darker green on hover for a nice effect */
+  color: #001d33; /* A darker shade for hover effects */
 }
+
 
