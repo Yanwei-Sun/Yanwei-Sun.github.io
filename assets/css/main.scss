@@ -68,15 +68,24 @@ body {
 }
 
 
-/* Custom Hyperlink Colors */
+// /* Custom Hyperlink Colors */
+// a {
+//   color: cadetblue; /* Sets the hyperlink color to a soft yet distinct blue */
+// }
+
+// a:hover {
+//   color: darkslateblue; /* A darker shade of blue for hover */
+// }
+
+
+/* Hyperlink color customization */
 a {
-  color: cadetblue; /* Sets the hyperlink color to a soft yet distinct blue */
+  color: blue; /* Normal state */
 }
 
 a:hover {
-  color: darkslateblue; /* A darker shade of blue for hover */
+  color: darkblue; /* Hover state */
 }
-
 
 
 
