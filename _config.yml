@@ -82,7 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Yanwei Sun"
-  avatar           : "yanwei_imperail_avatar.png"
+  # avatar           : "yanwei_imperail_avatar.png"
+  avatar           : "yanwei_games2.jpg"
   bio              : "PhD Student of Analytics & Operations at Imperial College Business School"
   location         : 
   employer         :
