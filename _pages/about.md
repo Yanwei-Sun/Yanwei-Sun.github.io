@@ -22,12 +22,10 @@ I am visiting the [Department of Industrial Engineering and Operations Research]
 
 
 ### News
-<div style="height:200px; overflow:auto; margin-bottom:20px;">
-<ul>
-  <li> May 18, 2024: two papers accepted by EC 2024! 
-  <li>(February, 2023) New preprint [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993).</li>
-</ul>
-</div>
+
+- Oct 2024: Our work about [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received the first place prize of the INFORMS Service Science Best Cluster Paper Award 2024!
+- May 2024: Two papers accepted by EC 2024! 
+
 
 
 
