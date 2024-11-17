@@ -22,6 +22,17 @@ I am visiting the [Department of Industrial Engineering and Operations Research]
 
 
 
+<div style="height:200px; overflow:auto; margin-bottom:20px;">
+### News
+<ul>
+  <li>(April, 2023) Updated preprint [Sequential Elimination Contests with All-Pay Auctions](https://arxiv.org/abs/2205.08104).</li>
+  <li>(February, 2023) New preprint [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993).</li>
+  <!-- More news items can be added here in the future -->
+</ul>
+</div>
+
+
+
 <!--My research centers around **mechanism & market design** and **information design**. -->
 
 <!-- Recently, I hold a particular interest in *three-sided marketplace* and *information design*. -->
