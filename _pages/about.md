@@ -21,9 +21,8 @@ I am broadly interested in **_operations problems involving incentive constraint
 I am visiting the [Department of Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year. 
 
 
-
-<div style="height:200px; overflow:auto; margin-bottom:20px;">
 ### News
+<div style="height:200px; overflow:auto; margin-bottom:20px;">
 <ul>
   <li>(April, 2023) Updated preprint [Sequential Elimination Contests with All-Pay Auctions](https://arxiv.org/abs/2205.08104).</li>
   <li>(February, 2023) New preprint [Efficiency of ETA Prediction](https://arxiv.org/abs/2112.09993).</li>
