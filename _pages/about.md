@@ -9,7 +9,8 @@ redirect_from:
 ---
 ### About Me
 
-Welcome! I am a third-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial College Business School](https://www.imperial.ac.uk/business-school/), where I am very fortunate to work with Prof. [Zhe Liu](https://blogs.imperial.ac.uk/zhe-liu/about/) and Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html). Before Imperial, I spent one year at [University of Washington, Seattle](https://www.washington.edu/) working with Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html) (remotely). 
+Welcome! I am a third-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial College Business School](https://www.imperial.ac.uk/business-school/), where I am very fortunate to work with Prof. [Zhe Liu](https://blogs.imperial.ac.uk/zhe-liu/about/) and Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html). 
+<!-- Before Imperial, I spent one year at [University of Washington, Seattle](https://www.washington.edu/) working with Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html) (remotely). -->
 <!--Prior to UW, I obtained my bachelor's degree (with summa cum laude) in Industrial Engineering from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2021.-->
 
 
