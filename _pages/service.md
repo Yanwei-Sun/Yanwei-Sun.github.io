@@ -13,7 +13,7 @@ author_profile: true
 
 - First Place, INFORMS Service Science Best Cluster Paper Award, 2024.
 - Second Prize, CSAMSE Best Paper Award, 2024.
-- Imperial College President Scholarship, 2023-2027.
+- Imperial College President Scholarship, 2023-Now.
 
 
 
