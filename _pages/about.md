@@ -27,7 +27,7 @@ I am visiting [University of California, Berkeley](https://www.berkeley.edu/) du
 ### What's New?
 
 - Oct 2024: Our work about [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received the first place prize of the INFORMS Service Science Best Cluster Paper Award 2024!
-- May 2024: Two papers accepted by EC 2024! 
+- May 2024:_ Two papers accepted by EC 2024! _
 
 
 
