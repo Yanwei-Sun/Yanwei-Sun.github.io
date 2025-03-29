@@ -40,6 +40,15 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+/* Remove link underlines site-wide */
+a {
+  text-decoration: none;       /* No underline in normal state */
+}
+
+a:hover {
+  text-decoration: none;       /* Remove underline on hover too, if desired */
+  /* text-decoration: underline; // or keep underline on hover if you prefer */
+}
 
 
 /* Sticky Header Styles - Refined Setup */
