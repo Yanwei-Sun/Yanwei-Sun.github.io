@@ -123,16 +123,14 @@ a:hover {
 
 
 
-
-/* Your final, custom overrides file: e.g. _sass/custom-overrides.scss */
-a,
-a:visited,
-a:hover,
-a:focus,
-a:active {
+.page__content a,
+.post-content a,
+.entry-content a,
+.page__content a:hover,
+.post-content a:hover,
+.entry-content a:hover {
   text-decoration: none !important;
   border-bottom: none !important;
 }
-
 
 
