@@ -40,24 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* custom.scss (or similar file) */
-
-/* This rule overrides any inline or forced underlines for links */
-.post-content a {
-  text-decoration: none !important;
-  color: #002FA7 !important; /* or whichever color you like */
-}
-
-
-/* Remove link underlines site-wide */
-a {
-  text-decoration: none;       /* No underline in normal state */
-}
-
-a:hover {
-  text-decoration: none;       /* Remove underline on hover too, if desired */
-  /* text-decoration: underline; // or keep underline on hover if you prefer */
-}
 
 
 /* Sticky Header Styles - Refined Setup */
@@ -136,6 +118,29 @@ a {
 /* This darker shade provides a subtle change when the user hovers over a link */
 a:hover {
   color: #001B75; /* Darker Klein Blue */
+}
+
+
+
+
+
+/* custom.scss (or similar file) */
+
+/* This rule overrides any inline or forced underlines for links */
+.post-content a {
+  text-decoration: none !important;
+  color: #002FA7 !important; /* or whichever color you like */
+}
+
+
+/* Remove link underlines site-wide */
+a {
+  text-decoration: none;       /* No underline in normal state */
+}
+
+a:hover {
+  text-decoration: none;       /* Remove underline on hover too, if desired */
+  /* text-decoration: underline; // or keep underline on hover if you prefer */
 }
 
 
