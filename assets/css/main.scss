@@ -124,16 +124,22 @@ a:hover {
 
 
 
-
-
 .page__content a,
 .post-content a,
 .entry-content a,
+.archive__content a,      /* If needed */
+.collection__content a,   /* If needed */
+.home__content a,         /* If needed */
 .page__content a:hover,
 .post-content a:hover,
-.entry-content a:hover {
+.entry-content a:hover,
+.archive__content a:hover,
+.collection__content a:hover,
+.home__content a:hover {
   text-decoration: none !important;
   border-bottom: none !important;
 }
+
+
 
 
