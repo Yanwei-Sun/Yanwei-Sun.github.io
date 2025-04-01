@@ -43,6 +43,7 @@ Marketplace & Mechanism Design, Information Design.
 
 $^\ast$ :  equal contribution
 
+- Yanwei Sun, Zhe Liu, Chiwei Yan. [On-Off Systems with Strategic Customers](https://arxiv.org/pdf/2503.23139).
 - Yanwei Sun$^\ast$, Fupeng Sun$^\ast$, Chiwei Yan, Jiahua Wu. [The Role of Prescreening in Auctions with Predictions](https://arxiv.org/pdf/2502.12117).
 - Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681). _submitted._
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
