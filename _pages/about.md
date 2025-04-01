@@ -27,8 +27,8 @@ I am visiting [University of California, Berkeley](https://www.berkeley.edu/) du
 ### What's New?
 - Mar 2025: New preprint out on [On-Off Systems with Strategic Customers](https://arxiv.org/pdf/2503.23139).
 - Feb 2025: Overhauled our paper [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104) and new preprint out on [The Role of Prescreening in Auctions with Predictions](https://arxiv.org/pdf/2502.12117).
-- Oct 2024: _Our work about [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received the [first place prize of the INFORMS Service Science Best Cluster Paper Award 2024](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Service-Science-Section/Best-Cluster-Paper-Award)!_
-- May 2024: _Two papers accepted by EC 2024!_
+-_ Oct 2024:_ _Our work about [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received the [first place prize of the INFORMS Service Science Best Cluster Paper Award 2024](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Service-Science-Section/Best-Cluster-Paper-Award)!_
+- _May 2024:_ _Two papers accepted by EC 2024!_
 
 
 
