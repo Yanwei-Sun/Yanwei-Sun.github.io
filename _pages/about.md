@@ -18,7 +18,7 @@ Welcome! I am a third-year (2022 Fall) PhD student of [Analytics & Operations](h
 
 I am broadly interested in **_operations problems involving incentive constraints_**, with a recent focus on **_marketplace & mechanism design_**, and **_information design_**.
 
-I am visiting [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year. 
+I am visiting [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year, hosted by Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html). 
 
 
 <!--I am visiting the [Department of Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year. --> 
