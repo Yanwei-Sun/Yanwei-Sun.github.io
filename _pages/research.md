@@ -50,7 +50,7 @@ $^\ast$ :  equal contribution
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
 - ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867). _under major revision._
   - First Place, INFORMS Service Science Best Cluster Paper Award, 2024.
-  - Second Prize, CSAMSE (Chinese Scholars Association for Management Science and Engineering) Best Paper Award, 2024 .
+  - Second Prize, CSAMSE Best Paper Award, 2024.
 - Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104.pdf). _under major revision._
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
 
