@@ -18,7 +18,7 @@ author_profile: true
 - Gaoling School of Artificial Intelligence, Renmin University of China, August 2024
 - Center on Frontiers of Computing Studies (CFCS), Peking University, August 2024
 - ACM EC Conference [2 talks], Yale School of Management, July 2024
-- MSOM Conference, Minneapolis MN, Jul 2024
+- MSOM Conference, Minneapolis MN, July 2024
 - Revenue Management and Pricing conference, London, 2023
 
 
