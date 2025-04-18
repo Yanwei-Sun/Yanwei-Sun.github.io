@@ -10,9 +10,9 @@ author_profile: true
 
 
 ## Talks
-- The University of Chicago, May 2025
-- Marketplace Innovation Workshop, May 2025
-- ISyE-MS&E-IOE Joint Rising Stars Workshop, April 2025
+- The University of Chicago, May 2025 [scheduled]
+- Marketplace Innovation Workshop, May 2025 [scheduled]
+- ISyE-MS&E-IOE Joint Rising Stars Workshop, April 2025 [scheduled]
 - INFORMS Annual Meeting, Seattle, WA, October 2024
 - World Congress of the Game Theory Society, Beijing, August 2024
 - Gaoling School of Artificial Intelligence, Renmin University of China, August 2024
