@@ -10,7 +10,7 @@ author_profile: true
 
 
 ## Talks
-%- The University of Chicago, May 2025 [scheduled]
+
 - Marketplace Innovation Workshop, May 2025 [scheduled]
 - ISyE-MS&E-IOE Joint Rising Stars Workshop, April 2025 [scheduled]
 - INFORMS Annual Meeting, Seattle, WA, October 2024
