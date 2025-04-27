@@ -11,8 +11,8 @@ author_profile: true
 
 ## Talks
 
-- University of Chicago (CS Department Seminar), May 2025 [scheduled]
 - Marketplace Innovation Workshop, May 2025 [scheduled]
+- University of Chicago (CS Department Seminar), May 2025 [scheduled]
 - ISyE-MS&E-IOE Joint Rising Stars Workshop, April 2025
 - INFORMS Annual Meeting, Seattle, WA, October 2024
 - World Congress of the Game Theory Society, Beijing, August 2024
