@@ -9,7 +9,7 @@ author_profile: true
 
 
 
-## Awards
+## Awards 🏆
 
 - [Fully Funded Invitation to ISyE-MS&E-IOE Joint Rising Stars Workshop, 2025](https://sites.gatech.edu/risingstars-isye-mse-ioe/)
 - [First Place, INFORMS Service Science Best Cluster Paper Award, 2024](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Service-Science-Section/Best-Cluster-Paper-Award)
