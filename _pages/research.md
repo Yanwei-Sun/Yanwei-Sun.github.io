@@ -49,8 +49,8 @@ $^\ast$ :  equal contribution
 - Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681). _submitted._
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
 - ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867). _under major revision._
-  - First Place, INFORMS Service Science Best Cluster Paper Award, 2024.
-  - Second Prize, CSAMSE Best Paper Award, 2024.
+  - 🏆 First Place, INFORMS Service Science Best Cluster Paper Award, 2024.
+  - 🏆 Second Prize, CSAMSE Best Paper Award, 2024.
 - Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104.pdf). _under major revision._
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
 
