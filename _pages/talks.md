@@ -11,6 +11,8 @@ author_profile: true
 
 ## Talks
 
+- INFORMS Annual Meeting, Atlanta, October 2025 [scheduled]
+- INFORMS Revenue Management and Pricing (RMP) Conference, New York, July 2025 [scheduled]
 - Marketplace Innovation Workshop, May 2025 [scheduled]
 - University of Chicago (CS Department), May 2025
 - ISyE-MS&E-IOE Joint Rising Stars Workshop, April 2025
