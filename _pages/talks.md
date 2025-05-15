@@ -22,7 +22,7 @@ author_profile: true
 - Center on Frontiers of Computing Studies (CFCS), Peking University, August 2024
 - ACM EC Conference [2 talks], Yale School of Management, July 2024
 - MSOM Conference, Minneapolis MN, July 2024
-- Revenue Management and Pricing conference, London, 2023
+- INFORMS Revenue Management and Pricing (RMP) Conference, London, July, 2023
 
 
 
