@@ -16,9 +16,9 @@ Auctions; Three-sided marketplace; Online Platforms
 **Market Design:** Three-sided marketplace -->
 
 
-## Research Interests
+<!-- ## Research Interests
 --------------------------------
-Marketplace & Mechanism Design, Information Design.
+Marketplace & Mechanism Design, Information Design. -->
 
 <!-- **Mechanism & Market Design**: Three-sided marketplace; Auctions.
 
