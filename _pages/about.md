@@ -16,7 +16,10 @@ Welcome! I am a third-year (2022 Fall) PhD student of [Analytics & Operations](h
 
 <!-- as a PhD student (remotely, quit because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043)) -->
 
-I am broadly interested in **_operations problems involving incentive constraints_**, with a recent focus on **_marketplace & mechanism design_**, and **_information design_**.
+I am broadly interested in operations problems involving incentive constraints, and my recent research focuses on the platform economy, operational transparency, and prediction-based mechanism design.
+
+
+<!-- I am broadly interested in **_operations problems involving incentive constraints_**, with a recent focus on **_marketplace & mechanism design_**, and **_information design_**. -->
 
 I am visiting [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year. 
 
