@@ -22,7 +22,7 @@ author_profile: true
 ## Professional Service 🗂️
 --------
 
-**Program Committee member**
+**Program Committee Member**
   - Conference on Web and Internet Economics (WINE), 2025
 
 **Journal Reviewer**
@@ -31,8 +31,8 @@ author_profile: true
 **Conference Reviewer**
   - Conference on Web and Internet Economics (WINE), 2025
 
-_Session Chair_
-- RMP, INFORMS 2023
+**Session Chair**
+  - RMP, INFORMS 2023
 
 
 
