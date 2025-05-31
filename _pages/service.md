@@ -10,6 +10,7 @@ author_profile: true
 
 
 ## Awards 🏆
+------------- 
 
 - [Fully Funded Invitation to ISyE-MS&E-IOE Joint Rising Stars Workshop, 2025](https://sites.gatech.edu/risingstars-isye-mse-ioe/)
 - [First Place, INFORMS Service Science Best Cluster Paper Award, 2024](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Service-Science-Section/Best-Cluster-Paper-Award)
@@ -18,11 +19,17 @@ author_profile: true
 
 
 
-## Service 🗂️
+## Professional Service 🗂️
+--------
 
-_Journal Reviewer_
-- European Journal of Operational Research
+**Program Committee member**
+  - Conference on Web and Internet Economics (WINE), 2025
 
+**Journal Reviewer**
+  - European Journal of Operational Research
+
+**Conference Reviewer**
+  - Conference on Web and Internet Economics (WINE), 2025
 
 _Session Chair_
 - RMP, INFORMS 2023
