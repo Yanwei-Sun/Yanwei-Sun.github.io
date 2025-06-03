@@ -20,7 +20,7 @@ author_profile: true
 - INFORMS Annual Meeting, Seattle, WA, October 2024
 - World Congress of the Game Theory Society, Beijing, August 2024
 - Gaoling School of Artificial Intelligence, Renmin University of China, August 2024
-- Center on Frontiers of Computing Studies (CFCS), Peking University, August 2024
+- Center on Frontiers of Computing Studies, Peking University, August 2024
 - ACM EC Conference [2 talks], Yale School of Management, July 2024
 - MSOM Conference, Minneapolis MN, July 2024
 - INFORMS Revenue Management and Pricing (RMP) Conference, London, July, 2023
