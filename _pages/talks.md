@@ -12,7 +12,7 @@ author_profile: true
 ## Talks
 
 2025
----------
+
 
 - INFORMS Annual Meeting, Atlanta, October 2025 [scheduled]
 - INFORMS Revenue Management and Pricing (RMP) Conference, New York, July 2025 [scheduled]
@@ -22,7 +22,7 @@ author_profile: true
 - ISyE-MS&E-IOE Joint Rising Stars Workshop, April 2025
 
 2024
----------------
+
 
 - INFORMS Annual Meeting, Seattle, WA, October 2024
 - World Congress of the Game Theory Society, Beijing, August 2024
@@ -32,7 +32,6 @@ author_profile: true
 - MSOM Conference, Minneapolis MN, July 2024
 
 2023
----------
 
 - INFORMS Revenue Management and Pricing (RMP) Conference, London, July, 2023
 
