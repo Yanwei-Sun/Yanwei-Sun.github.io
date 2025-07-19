@@ -45,16 +45,16 @@ Marketplace & Mechanism Design, Information Design. -->
 
 $^\ast$ :  equal contribution
 
-- Yanwei Sun$^\ast$, Fupeng Sun$^\ast$, Chiwei Yan, Jiahua Wu. [The Role of Prescreening in Auctions with Predictions](https://drive.google.com/file/d/1KIlb6zA_8WO0UfDioc48_rewFPaZ1Xtq/view). _in progress._
+- Yanwei Sun$^\ast$, Fupeng Sun$^\ast$, Chiwei Yan, Jiahua Wu. [The Role of Prescreening in Auctions with Predictions](https://drive.google.com/file/d/1KIlb6zA_8WO0UfDioc48_rewFPaZ1Xtq/view). _in progress._ updated 2025/05.
   - EC 2025 Workshop on Frontiers of Online Advertising.  
   - Marketplace Innovation Workshop, 2025.
 - Yanwei Sun, Zhe Liu, Chiwei Yan. [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068). _submitted._
-- Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681). _under major revision._
+- Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681). _under major revision._ 
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
 - ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867). _under major revision._
   - 🏆 First Place, INFORMS Service Science Best Cluster Paper Award, 2024.
   - 🏆 Second Prize, CSAMSE Best Paper Award, 2024.
-- Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104.pdf). _under major revision._
+- Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104.pdf). _under major revision._ updated 2025/02.
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
 
   
