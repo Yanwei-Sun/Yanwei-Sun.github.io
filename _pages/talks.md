@@ -14,7 +14,7 @@ author_profile: true
 
 
 - INFORMS Annual Meeting, Atlanta, October 2025 [scheduled]
-- IEDA Department at HKUST, August 2025 [scheduled]
+- HKUST (IEDA Department), August 2025 [scheduled]
 - INFORMS Revenue Management and Pricing (RMP) Conference, New York, July 2025
 - University of Toronto Rotman Young Scholar Seminar Series, Virtual, June 2025
 - Marketplace Innovation Workshop, Virtual, May 2025
