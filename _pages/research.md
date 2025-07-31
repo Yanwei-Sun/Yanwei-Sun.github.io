@@ -51,6 +51,7 @@ $^\ast$ :  equal contribution
 - Yanwei Sun, Zhe Liu, Chiwei Yan. [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068). _submitted._
 - Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681). _under major revision._ 
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
+  - Covered by [IB Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/finance-marketing/how-platforms-can-win-selling-smarter-not-harder/)
 - ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867). _under major revision._ updated 2025/07
   - 🏆 First Place, INFORMS Service Science Best Cluster Paper Award, 2024.
   - 🏆 Second Prize, CSAMSE Best Paper Award, 2024.
