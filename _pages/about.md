@@ -9,7 +9,10 @@ redirect_from:
 ---
 ### About Me
 
-Welcome! I am a third-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial College Business School](https://www.imperial.ac.uk/business-school/), where I am very fortunate to work with Prof. [Zhe Liu](https://blogs.imperial.ac.uk/zhe-liu/about/), Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html) and Prof. [Jiahua Wu](https://wu-jiahua.github.io/). 
+Welcome! I am a fourth-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial College Business School](https://www.imperial.ac.uk/business-school/), where I am very fortunate to work with Prof. [Zhe Liu](https://blogs.imperial.ac.uk/zhe-liu/about/), Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html) and Prof. [Jiahua Wu](https://wu-jiahua.github.io/). I was a visiting scholar at [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year, hosted by [Chiwei Yan](https://yanchiwei.github.io/index.html).
+
+
+
 <!-- Before Imperial, I spent one year at [University of Washington, Seattle](https://www.washington.edu/) working with Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html) (remotely). -->
 <!--Prior to UW, I obtained my bachelor's degree (with summa cum laude) in Industrial Engineering from [Beijing Institute of Technology](https://english.bit.edu.cn/) in 2021.-->
 
@@ -21,7 +24,6 @@ I am broadly interested in **_operations problems involving incentive constraint
 
 <!-- I am broadly interested in **_operations problems involving incentive constraints_**, with a recent focus on **_marketplace & mechanism design_**, and **_information design_**. -->
 
-I am visiting [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year. 
 
 
 <!--I am visiting the [Department of Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year. --> 
