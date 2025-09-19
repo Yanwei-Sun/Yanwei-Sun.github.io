@@ -32,7 +32,7 @@ I am broadly interested in **_operations problems involving incentive constraint
 
 
 ### What's New?
-- _Sep 2025: Our work [prediction-based prescreening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543) is accepted by [WINE](https://wine2025.cs.rutgers.edu/#about)._
+- _Sep 2025: Our work [prediction-based prescreening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543) is accepted by [WINE](https://wine2025.cs.rutgers.edu/#about)!_
 - July 2025: Overhauled our paper [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867).
 - _Apr 2025: Honored to receive the invitation to [ISyE-MS&E-IOE Joint Rising Stars Workshop](https://sites.gatech.edu/risingstars-isye-mse-ioe/)!_
 <!-- - Mar 2025: New preprint out on [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068). -->
