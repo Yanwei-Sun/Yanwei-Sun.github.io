@@ -46,7 +46,7 @@ Marketplace & Mechanism Design, Information Design. -->
 $^\ast$ :  equal contribution
 
 - Yanwei Sun$^\ast$, Fupeng Sun$^\ast$, Chiwei Yan, Jiahua Wu. [The Role of Prescreening in Auctions with Predictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543). _submitted._ updated 2025/08.
-  <!-- - Preliminary version: Conference on Web and Internet Economics (**WINE' 25**). -->
+  - Preliminary version: Conference on Web and Internet Economics (**WINE' 25**).
   - EC 2025 Workshop on Frontiers of Online Advertising.  
   - Marketplace Innovation Workshop, 2025.
 - Yanwei Sun, Zhe Liu, Chiwei Yan. [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068). _submitted._
