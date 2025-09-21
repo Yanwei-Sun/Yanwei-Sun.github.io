@@ -45,12 +45,12 @@ Marketplace & Mechanism Design, Information Design. -->
 
 $^\ast$ :  equal contribution
 
-- Yanwei Sun$^\ast$, Fupeng Sun$^\ast$, Chiwei Yan, Jiahua Wu. [The Role of Prescreening in Auctions with Predictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543). _submitted._ updated 2025/08.
+- Yanwei Sun$^\ast$, Fupeng Sun$^\ast$, Chiwei Yan, Jiahua Wu. [The Role of Prescreening in Auctions with Predictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543). 
   - Preliminary version: Conference on Web and Internet Economics (**WINE' 25**).
   - EC 2025 Workshop on Frontiers of Online Advertising.  
   - Marketplace Innovation Workshop, 2025.
-- Yanwei Sun, Zhe Liu, Chiwei Yan. [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068). _submitted._
-- Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681). _under major revision._
+- Yanwei Sun, Zhe Liu, Chiwei Yan. [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068). _under R&R._
+- Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681). _submitted_, _major revision._
   - Covered by [IB Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/finance-marketing/how-platforms-can-win-selling-smarter-not-harder/)
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
   
