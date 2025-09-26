@@ -19,7 +19,11 @@ Welcome! I am a fourth-year (2022 Fall) PhD student of [Analytics & Operations](
 
 <!-- as a PhD student (remotely, quit because of the [US visa issue](https://en.wikipedia.org/wiki/Proclamation_10043)) -->
 
-I am broadly interested in **_operations problems involving incentive constraints_**, with recent focuses on the **_platform operations_**, **_operational transparency_**, and **_prediction-based mechanism design_**.
+<!-- I am broadly interested in **_operations problems involving incentive constraints_**, with recent focuses on the **_platform operations_**, **_operational transparency_**, and **_prediction-based mechanism design_**. -->
+
+
+Broadly speaking, my research focuses on _designing and operating modern platforms and market mechanisms in settings with **strategic agents** and **informational frictions**_.
+My research has two primary thrusts: (1) **managing strategic interactions through the design of information structures and market rules**, and (2) **harnessing AI-driven predictions to design more effective market mechanisms**.
 
 
 
