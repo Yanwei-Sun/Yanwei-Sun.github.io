@@ -25,7 +25,9 @@ Welcome! I am a fourth-year (2022 Fall) PhD student of [Analytics & Operations](
 
 
 Broadly speaking, my research focuses on _designing and operating modern platforms and market mechanisms in settings with **strategic agents** and **informational frictions**_.
-My research has two primary thrusts: (1) **managing strategic interactions through the design of information structures and market rules in platform operations**, and (2) **harnessing AI-driven predictions to design more effective market mechanisms**.
+My research has two primary thrusts: (1) **managing strategic interactions through the design of information structures and market rules in platform operations**, and (2) **harnessing AI-driven predictions to design more effective market mechanisms, encompassing both AI-assisted mechanism design and marketplace design for AI agents**.
+
+
 
 
 
