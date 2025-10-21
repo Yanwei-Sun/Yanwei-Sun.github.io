@@ -24,7 +24,7 @@ author_profile: true
 2024
 
 
-- INFORMS Annual Meeting, Seattle, WA, October 2024
+- INFORMS Annual Meeting [2 talks], Seattle, WA, October 2024
 - World Congress of the Game Theory Society, Beijing, August 2024
 - Gaoling School of Artificial Intelligence, Renmin University of China, August 2024
 - Center on Frontiers of Computing Studies, Peking University, August 2024
