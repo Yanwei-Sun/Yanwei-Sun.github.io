@@ -9,7 +9,7 @@ redirect_from:
 ---
 ### About Me
 
-Welcome! I am a fourth-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial Business School](https://www.imperial.ac.uk/business-school/). I was a visiting scholar at [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year.
+Welcome! I am a fourth-year (2022 Fall) PhD student of [Analytics & Operations](https://www.imperial.ac.uk/business-school/faculty-research/academic-areas/analytics-operations/) at [Imperial Business School](https://www.imperial.ac.uk/business-school/), where I am fortunate to be advised by Prof. [Jiahua Wu](https://wu-jiahua.github.io/) and Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html). I was a visiting scholar at [University of California, Berkeley](https://www.berkeley.edu/) during the 2024-2025 academic year, hosted by [Chiwei Yan](https://yanchiwei.github.io/index.html).
 <!--, where I am fortunate to be co-advised by Prof. [Zhe Liu](https://blogs.imperial.ac.uk/zhe-liu/about/), Prof. [Chiwei Yan](https://yanchiwei.github.io/index.html) and Prof. [Jiahua Wu](https://wu-jiahua.github.io/). -->
 <!-- , hosted by [Chiwei Yan](https://yanchiwei.github.io/index.html). -->
 
