@@ -28,6 +28,7 @@ author_profile: true
   - Conference on Web and Internet Economics (WINE), 2025
 
 **Journal Reviewer**
+  - Naval Research Logistics
   - European Journal of Operational Research
 
 **Conference Reviewer**
