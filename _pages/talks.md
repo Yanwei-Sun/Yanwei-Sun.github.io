@@ -13,7 +13,7 @@ author_profile: true
 2025
 
 - Conference on Web and Internet Economics (WINE), Rutgers University, December 2025 [scheduled]
-- INFORMS Annual Meeting, Atlanta, October 2025 [scheduled]
+- INFORMS Annual Meeting, Atlanta, October 2025
 - HKUST (IEDA Department), August 2025
 - INFORMS Revenue Management and Pricing (RMP) Conference, New York, July 2025
 - University of Toronto Rotman Young Scholar Seminar Series, Virtual, June 2025
