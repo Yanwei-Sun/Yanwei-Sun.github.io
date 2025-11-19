@@ -28,14 +28,6 @@ Marketplace & Mechanism Design, Information Design. -->
 
 
 
-<!--
-## Working in Progress
--------------
-- Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems
-  -  with Zhe Liu and Yiwen Shen
- -->
-
-
 
 ## Working Papers
 
