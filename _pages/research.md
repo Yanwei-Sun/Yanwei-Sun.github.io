@@ -57,8 +57,7 @@ $^\ast$ :  equal contribution
 - ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867). _under major revision._ updated 2025/07
   - 🏆 First Place, INFORMS Service Science Best Cluster Paper Award, 2024.
   - 🏆 Second Prize, CSAMSE Best Paper Award, 2024.
-- Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104.pdf). _under major revision._ updated 2025/02.
-  - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
+
 
   
 <!-- - [[Poster]](https://github.com/Yanwei-Sun/Yanwei-Sun.github.io/blob/a71896b256598e9689fcb70f3f49d592cadb3d98/files/SEC_poster.pdf)  [[Slide]](https://github.com/Yanwei-Sun/Yanwei-Sun.github.io/blob/6848520e15ce623cbd8427039ff66aa9086cf922/files/slide_SEC.pdf) -->
@@ -66,6 +65,8 @@ $^\ast$ :  equal contribution
  
 ## Journal Publications
 -------------
+- Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104.pdf), _**International Journal of Game Theory**_, accepted.
+  - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
 - Chiwei Yan, James Johndrow, Dawn Woodard, Yanwei Sun. [Efficiency of ETA Prediction](https://epubs.siam.org/doi/abs/10.1137/23M155699X?journalCode=sjmdaq), **_SIAM Journal on Mathematics of Data Science (SIMODS)_**, 6(2): 227-253, 2024.[[arXiv](https://arxiv.org/abs/2112.09993)][[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
 
 
