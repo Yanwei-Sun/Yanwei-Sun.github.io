@@ -41,9 +41,12 @@ My research has two primary thrusts: (1) **managing strategic interactions throu
 
 
 ### What's New?
-- _Sep 2025: Our work [prediction-based prescreening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543) is accepted by [WINE](https://wine2025.cs.rutgers.edu/#about)!_
-- July 2025: Overhauled our paper [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867).
-- _Apr 2025: Honored to receive the invitation to [ISyE-MS&E-IOE Joint Rising Stars Workshop](https://sites.gatech.edu/risingstars-isye-mse-ioe/)!_
+- Dec 2025:
+  - New preprint out on [Optimal Privacy with Coarse Labels in Screening Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5863302).
+  - Our work [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received a Minor Revision at Management Science.
+  - My pre-doctoral work [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104) is accepted by International Journal of Game Theory.
+- Sep 2025: Our work [prediction-based prescreening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543) is accepted by [WINE](https://wine2025.cs.rutgers.edu/#about)!
+- Apr 2025: Honoured to receive the invitation to [ISyE-MS&E-IOE Joint Rising Stars Workshop](https://sites.gatech.edu/risingstars-isye-mse-ioe/)!
 <!-- - Mar 2025: New preprint out on [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068). -->
 
 <!-- - Feb 2025: Overhauled our paper [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104) and new preprint out on [The Role of Prescreening in Auctions with Predictions](https://arxiv.org/pdf/2502.12117). -->
