@@ -46,7 +46,7 @@ $^\ast$ :  equal contribution
   - Covered by [IB Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/finance-marketing/how-platforms-can-win-selling-smarter-not-harder/)
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
   
-- ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867). _under major revision._ updated 2025/07
+- ($\alpha$-$\beta$) Zhe Liu, Yiwen Shen, Yanwei Sun. [Operating Three-sided Marketplace: Pricing and Spatial Staffing in Food Delivery Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867). _**under minor revision**._ at **_Management Science_** updated 2025/07
   - 🏆 First Place, INFORMS Service Science Best Cluster Paper Award, 2024.
   - 🏆 Second Prize, CSAMSE Best Paper Award, 2024.
 
