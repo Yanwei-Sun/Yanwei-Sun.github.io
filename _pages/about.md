@@ -43,7 +43,7 @@ My research has two primary thrusts: (1) **managing strategic interactions throu
 ### What's New?
 - Dec 2025:
   - New preprint out on [Optimal Privacy with Coarse Labels in Screening Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5863302).
-  - Our work [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received a Minor Revision at Management Science.
+  - Our work [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received Minor Revision at Management Science.
   - My pre-doctoral work [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104) is accepted by International Journal of Game Theory.
 - Sep 2025: Our work [prediction-based prescreening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543) is accepted by [WINE](https://wine2025.cs.rutgers.edu/#about).
 - Apr 2025: Honoured to receive the invitation to [ISyE-MS&E-IOE Joint Rising Stars Workshop](https://sites.gatech.edu/risingstars-isye-mse-ioe/).
