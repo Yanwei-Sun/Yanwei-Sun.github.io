@@ -27,15 +27,13 @@ author_profile: true
 **Program Committee Member**
   - Conference on Web and Internet Economics (WINE), 2025
 
-**Journal Reviewer**
+**Ad-hoc Journal Reviewer**
   - Naval Research Logistics
   - European Journal of Operational Research
 
 **Conference Reviewer**
   - Conference on Web and Internet Economics (WINE), 2025
 
-**Session Chair**
-  - RMP, INFORMS 2023
 
 
 
