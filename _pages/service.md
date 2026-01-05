@@ -17,7 +17,7 @@ author_profile: true
 - Overseas Research Visit Fund, Imperial Business School (£8000), 2024 
 - Second Place, [CSAMSE](https://csamse2024.xmu.edu.cn/Committee/Best_Paper_Award_Committee.htm) Best Paper Award, 2024
 - Imperial College President's PhD Scholarship, 2023--now
-- [Dean’s List for Academic Excellence at Imperial College Business School](https://www.imperial.ac.uk/business-school/about-us/deans-list/), 2022–2023
+- [Dean’s List for Academic Excellence at Imperial Business School](https://www.imperial.ac.uk/business-school/about-us/deans-list/), 2022–2023
 
 
 
