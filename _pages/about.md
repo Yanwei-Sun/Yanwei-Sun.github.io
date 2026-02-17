@@ -41,7 +41,7 @@ My research has two primary thrusts: (1) **managing strategic interactions throu
 
 
 ### What's New?
-- Jan 2026: New work about [Pricing AI as a Service](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6254459)!
+- Feb 2026: New work about [Pricing AI as a Service](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6254459)!
 - Dec 2025:
   - New preprint out on [Optimal Privacy with Coarse Labels in Screening Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5863302).
   - Our work [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received Minor Revision at Management Science.
