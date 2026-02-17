@@ -37,6 +37,7 @@ Marketplace & Mechanism Design, Information Design. -->
 
 $^\ast$ :  equal contribution
 
+- ($\alpha$-$\beta$) Ilan Lobel, Yanwei Sun, Jiahua Wu. [Pricing AI as a Service](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6254459).
 - ($\alpha$-$\beta$) Niklas Häusle, Daniel Quigley, Casey Rothschild, Yanwei Sun, André Veiga. [Optimal Privacy with Coarse Labels in Screening Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5863302).
 - Yanwei Sun$^\ast$, Fupeng Sun$^\ast$, Chiwei Yan, Jiahua Wu. [The Role of Prescreening in Auctions with Predictions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5397543), _submitted._
   - Preliminary version: Conference on Web and Internet Economics (**WINE' 25**).
