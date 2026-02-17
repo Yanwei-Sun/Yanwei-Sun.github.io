@@ -59,7 +59,7 @@ $^\ast$ :  equal contribution
  
 ## Journal Publications
 -------------
-- Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://arxiv.org/pdf/2205.08104.pdf), _**International Journal of Game Theory**_, forthcoming.
+- Fupeng Sun$^\ast$, Yanwei Sun$^\ast$, Chiwei Yan, Li Jin. [Restricting Entries to All-Pay Contests](https://link.springer.com/article/10.1007/s00182-025-00969-9), _**International Journal of Game Theory**_, 55: 7, 2026. [[arXiv]](https://arxiv.org/pdf/2205.08104.pdf)
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
 - Chiwei Yan, James Johndrow, Dawn Woodard, Yanwei Sun. [Efficiency of ETA Prediction](https://epubs.siam.org/doi/abs/10.1137/23M155699X?journalCode=sjmdaq), **_SIAM Journal on Mathematics of Data Science (SIMODS)_**, 6(2): 227-253, 2024.[[arXiv](https://arxiv.org/abs/2112.09993)][[Notebook](https://github.com/yanchiwei/eta/blob/main/examples.ipynb)] 
 
