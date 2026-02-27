@@ -44,7 +44,7 @@ $^\ast$ :  equal contribution
   - EC 2025 Workshop on Frontiers of Online Advertising.  
   - Marketplace Innovation Workshop, 2025.
 - Yanwei Sun, Zhe Liu, Chiwei Yan. [On-Off Systems with Strategic Customers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202068), _under revision._
-- Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681), _under major revision._
+- Yanwei Sun$^\ast$, Niloofar Zamani Foroushani$^\ast$, Zhe Liu, Jiahua Wu. [Information Design and Pricing in Lead-Selling Platforms with Supply Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681), _under second-round review after major revision._ updated 2026/02
   - Covered by [IB Knowledge](https://www.imperial.ac.uk/business-school/ib-knowledge/finance-marketing/how-platforms-can-win-selling-smarter-not-harder/)
   - Preliminary version: Proceedings of the ACM Conference on Economics and Computation (**EC' 24**).
   
