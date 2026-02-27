@@ -42,8 +42,8 @@ My research has two primary thrusts: (1) **managing strategic interactions throu
 
 ### What's New?
 - Feb 2026:
+  - New version of [Information Design in Lead-selling Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681) is out. We characterize the optimal public mechanism in general states, and extend the model to a dynamic setting and multiple leads. 
   - New work about [Pricing AI as a Service](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6254459)!
-  - New version of [Information Design in Lead-selling Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872681) is out. We characterize the optimal public mechanism in general states, and extend the model to dynamic setting and multiple leads. 
 - Dec 2025:
   - New preprint out on [Optimal Privacy with Coarse Labels in Screening Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5863302).
   - Our work [three-sided marketplace design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4668867) received Minor Revision at Management Science.
