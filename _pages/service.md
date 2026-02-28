@@ -25,6 +25,7 @@ author_profile: true
 --------
 
 **Program Committee Member**
+  - ACM Conference on Economics and Computation (EC), 2026
   - Conference on Web and Internet Economics (WINE), 2025
 
 **Ad-hoc Journal Reviewer**
@@ -32,6 +33,7 @@ author_profile: true
   - European Journal of Operational Research
 
 **Conference Reviewer**
+  - ACM Conference on Economics and Computation (EC), 2026
   - Conference on Web and Internet Economics (WINE), 2025
 
 
