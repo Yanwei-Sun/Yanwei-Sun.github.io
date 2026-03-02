@@ -1,0 +1,402 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Yanwei Sun — Talks</title>
+  <meta name="description" content="Yanwei Sun — PhD Candidate in Analytics & Operations, Imperial Business School." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root{
+      --bg:      #ffffff;
+      --bg-side: #f9f8f6;
+      --bg-card: #ffffff;
+      --text:    #22201c;
+      --muted:   #6b5f56;
+      --muted2:  #9e9088;
+      --border:  rgba(0,0,0,0.10);
+      --accent:  #1d4ed8;
+      --accent2: #b45309;
+      --sidebar-w:   340px;
+      --content-max: 1050px;
+      --gap:    24px;
+      --radius: 14px;
+    }
+
+    *{ box-sizing: border-box; }
+    html{ font-size: 16px; }
+
+    body{
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      line-height: 1.6;
+    }
+
+    a{ color: var(--text); text-decoration: none; }
+    a:hover{ color: #000; }
+
+    .link{
+      color: #2563eb;
+      text-decoration: none;
+    }
+    .link:hover{ text-decoration: underline; }
+
+    .layout{
+      display: grid;
+      grid-template-columns: var(--sidebar-w) 1fr;
+      min-height: 100vh;
+    }
+
+    .sidebar{
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      padding: 26px 20px;
+      border-right: 1px solid var(--border);
+      background: var(--bg-side);
+      overflow-y: auto;
+    }
+
+    .brand{
+      display: block;
+      padding: 16px 16px 12px;
+      border-radius: var(--radius);
+    }
+    .brand:hover{ background: rgba(0,0,0,0.04); }
+    .brand .name{ font-weight: 700; letter-spacing: -0.02em; font-size: 19px; color: var(--text); }
+    .brand .role{ margin-top: 4px; font-size: 13.5px; color: var(--muted); }
+
+    .nav{ margin-top: 10px; padding: 6px; border-radius: var(--radius); }
+    .nav a{
+      display: flex; align-items: center; gap: 10px;
+      padding: 10px 12px; border-radius: 10px;
+      color: var(--muted); font-weight: 600; font-size: 15px;
+    }
+    .nav a:hover{ background: rgba(37,99,235,0.06); color: var(--text); }
+    .nav a.active{ background: rgba(37,99,235,0.10); color: var(--accent); }
+
+    .dot{ width: 7px; height: 7px; border-radius: 999px; background: #d1d5db; flex: 0 0 auto; }
+    .nav a.active .dot{ background: var(--accent); box-shadow: 0 0 0 3px rgba(37,99,235,0.15); }
+
+    .sidebar .small-links{
+      margin-top: 16px; padding: 12px 14px;
+      color: var(--muted2); font-size: 13.5px; border-top: 1px solid var(--border);
+    }
+
+    .content{ padding: 40px 40px 80px; }
+    .wrap{ max-width: var(--content-max); margin: 0 auto; }
+
+    /* Home */
+    .hero{ display: grid; grid-template-columns: 320px 1fr; gap: var(--gap); align-items: start; }
+    .photo{ border-radius: var(--radius); overflow: hidden; border: 1px solid var(--border); }
+    .photo img{ display: block; width: 100%; height: auto; }
+
+    .hero h1{ margin: 0 0 8px; font-size: 34px; line-height: 1.1; letter-spacing: -0.03em; color: var(--text); }
+    .meta{ margin-top: 8px; color: var(--muted); font-size: 17px; }
+    .meta b{ color: var(--text); }
+
+    .cta{ margin-top: 14px; display: flex; gap: 12px; flex-wrap: wrap; }
+    .btn{
+      display: inline-flex; align-items: center; gap: 8px;
+      padding: 9px 15px; border-radius: 10px; border: 1px solid var(--border);
+      background: var(--bg-side); color: var(--text); font-weight: 600; font-size: 14px;
+    }
+    .btn:hover{ background: #e2ddd6; }
+    .btn.primary{ background: rgba(37,99,235,0.09); border-color: rgba(37,99,235,0.25); color: var(--accent); }
+    .btn.primary:hover{ background: rgba(37,99,235,0.15); }
+
+    /* Sections */
+    section{ margin-top: 0; }
+    section + section{ margin-top: 40px; padding-top: 32px; border-top: 2px solid var(--border); }
+    section h2{
+      margin: 0 0 20px;
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      color: var(--text);
+    }
+    .subtle{ color: var(--muted); font-size: 18px; margin: -10px 0 18px; }
+    .subtle-sm{ color: var(--muted2); font-size: 13.5px; margin: -10px 0 14px; }
+
+    /* What's New */
+    .whats-new{ margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--border); }
+    .whats-new h2{
+      margin: 0 0 14px; font-size: 16px; font-weight: 700;
+      letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted2);
+    }
+
+    .news-item{ display: flex; gap: 16px; padding: 9px 0; border-bottom: 1px solid var(--border); font-size: 15px; }
+    .news-item:last-child{ border-bottom: none; }
+    .news-date{ flex-shrink: 0; width: 64px; font-weight: 700; color: var(--accent); font-size: 13px; padding-top: 2px; }
+    .news-text{ color: var(--muted); line-height: 1.55; }
+    .news-text .link{ color: var(--muted); text-decoration: none; }
+    .news-text .link:hover{ color: var(--text); }
+    .news-text ul{ margin: 4px 0 0; padding-left: 1.1rem; }
+    .news-text li{ margin-bottom: 2px; }
+
+    /* Papers */
+    .paper{ display: flex; gap: 14px; padding: 15px 0; border-bottom: 1px solid var(--border); }
+    .paper:last-child{ border-bottom: none; }
+    .paper-num{ flex-shrink: 0; width: 20px; text-align: right; font-size: 14px; font-weight: 600; color: var(--muted2); padding-top: 2px; }
+    .paper-body{ flex: 1; min-width: 0; }
+    .paper-main{ font-size: 15px; color: var(--muted); line-height: 1.5; }
+    .ptitle{ font-weight: 400; font-size: 15.5px; color: var(--accent); transition: color .15s; }
+    .ptitle:hover{ color: #1d4ed8; }
+    .paper-subs{ margin: 6px 0 0; padding: 0; list-style: none; }
+    .paper-sub{ display: flex; align-items: baseline; gap: 7px; font-size: 13px; color: var(--muted); line-height: 1.55; padding: 1px 0; }
+    .paper-sub::before{ content: '›'; color: var(--muted2); flex-shrink: 0; font-size: 13px; }
+
+    /* Teaching */
+    .course-grid{ display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .course-grid .item{
+      padding: 14px; border: 1px solid var(--border);
+      border-radius: var(--radius); background: #ffffff; font-size: 15px;
+    }
+    .item-level{ font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); margin-bottom: 2px; }
+    .item-name{ font-weight: 600; color: var(--text); }
+    @media (max-width: 600px){ .course-grid{ grid-template-columns: 1fr; } }
+
+    /* Awards */
+    .award-row{ display: flex; align-items: baseline; gap: 10px; padding: 9px 0; border-bottom: 1px solid var(--border); font-size: 15px; flex-wrap: wrap; }
+    .award-row:last-child{ border-bottom: none; }
+    .award-name-r{ font-weight: 400; color: var(--text); flex: 1; min-width: 180px; }
+    .award-detail-r{ color: var(--muted); font-size: 14px; }
+    .award-year-r{ color: var(--accent); font-weight: 700; font-size: 13px; margin-left: auto; white-space: nowrap; }
+
+    /* Service */
+    .svc-grid{ display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .svc{
+      padding: 14px 16px; border: 1px solid var(--border);
+      border-radius: var(--radius); background: #ffffff;
+    }
+    .svc h3{
+      font-size: 11px; font-weight: 700; letter-spacing: 0.09em;
+      text-transform: uppercase; color: var(--accent);
+      margin: 0 0 8px; padding-bottom: 6px; border-bottom: 1px solid var(--border);
+    }
+    .svc ul{ padding-left: 1.1rem; margin: 0; }
+    .svc li{ color: var(--muted); font-size: 15px; margin-bottom: 6px; line-height: 1.5; }
+    .svc li:last-child{ margin-bottom: 0; }
+    @media (max-width: 600px){ .svc-grid{ grid-template-columns: 1fr; } }
+
+    /* Talks */
+    .talk-yr{ margin-bottom: 18px; }
+    .talk-yr-label{ font-size: 14px; font-weight: 700; color: var(--text); letter-spacing: 0.02em; display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
+    .talk-yr-label::after{ content: ''; flex: 1; height: 1px; background: var(--border); }
+    .titem{ display: flex; align-items: baseline; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 15px; flex-wrap: wrap; }
+    .titem:last-child{ border-bottom: none; }
+    .tvenue{ font-weight: 400; color: var(--text); flex: 1; min-width: 180px; }
+    .tloc{ color: var(--muted); }
+    .tdate{ color: var(--accent); font-weight: 700; font-size: 13px; white-space: nowrap; }
+    .tnote{ font-size: 13px; color: var(--muted2); font-style: italic; width: 100%; }
+
+    /* Mobile */
+    .topbar{ display: none; position: sticky; top: 0; z-index: 10; padding: 12px 14px; border-bottom: 1px solid var(--border); background: rgba(248,246,243,0.94); backdrop-filter: blur(10px); }
+    .topbar .row{ display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .menu-btn{ padding: 9px 12px; border-radius: 10px; border: 1px solid var(--border); background: var(--bg-side); color: var(--text); font-weight: 700; cursor: pointer; }
+    .mobile-drawer{ display: none; padding: 10px 14px 14px; border-bottom: 1px solid var(--border); background: var(--bg-card); }
+    .mobile-drawer a{ display: block; padding: 10px 8px; color: var(--muted); font-weight: 700; font-size: 15px; border-bottom: 1px solid var(--border); }
+    .mobile-drawer a:last-child{ border-bottom: none; }
+    .mobile-drawer a:hover{ color: var(--accent); }
+
+    @media (max-width: 980px){
+      .layout{ grid-template-columns: 1fr; }
+      .sidebar{ display: none; }
+      .topbar{ display: block; }
+      .content{ padding: 18px 16px 50px; }
+      .hero{ grid-template-columns: 1fr; }
+    }
+  </style>
+
+  <script>
+    function toggleMenu(){
+      const d = document.getElementById('mobileDrawer');
+      d.style.display = (d.style.display === 'block') ? 'none' : 'block';
+    }
+  </script>
+</head>
+
+<body>
+
+  <div class="topbar">
+    <div class="row">
+      <a href="index.html" style="font-weight:800;letter-spacing:-0.02em;color:var(--text);">Yanwei Sun</a>
+      <button class="menu-btn" onclick="toggleMenu()">Menu</button>
+    </div>
+  </div>
+  <div class="mobile-drawer" id="mobileDrawer">
+    <a href="index.html"    onclick="toggleMenu()">Home</a>
+    <a href="research.html" onclick="toggleMenu()">Research</a>
+    <a href="teaching.html" onclick="toggleMenu()">Teaching</a>
+    <a href="awards.html"   onclick="toggleMenu()">Awards</a>
+    <a href="service.html"  onclick="toggleMenu()">Service</a>
+    <a href="talks.html"    onclick="toggleMenu()">Talks</a>
+  </div>
+
+  <div class="layout">
+
+    <aside class="sidebar">
+      <a href="index.html" class="brand">
+        <div class="name">Yanwei Sun</div>
+        <div class="role">PhD Candidate · Imperial Business School</div>
+      </a>
+      <nav class="nav" aria-label="Site pages">
+        <a href="index.html"    ><span class="dot"></span> Home</a>
+        <a href="research.html" ><span class="dot"></span> Research</a>
+        <a href="teaching.html" ><span class="dot"></span> Teaching</a>
+        <a href="awards.html"   ><span class="dot"></span> Awards</a>
+        <a href="service.html"  ><span class="dot"></span> Service</a>
+        <a href="talks.html"    class="active"><span class="dot"></span> Talks</a>
+      </nav>
+      <div class="small-links">
+        <div style="margin-bottom:8px;">
+          <a class="link" href="https://scholar.google.com/citations?hl=en&user=n8b6xC0AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        </div>
+        <div><a class="link" href="mailto:yanwei@imperial.ac.uk">yanwei@imperial.ac.uk</a></div>
+      </div>
+    </aside>
+
+    <main class="content">
+      <div class="wrap">
+
+        
+        <!-- ── Talks ── -->
+        <section>
+          <h2>Talks &amp; Presentations</h2>
+          
+          <div class="talk-yr">
+            <div class="talk-yr-label">2025</div>
+            
+            <div class="titem">
+              <span class="tvenue">Conference on Web and Internet Economics (WINE)</span>
+              <span class="tloc">Rutgers University</span>
+              <span class="tdate">December</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">INFORMS Annual Meeting</span>
+              <span class="tloc">Atlanta</span>
+              <span class="tdate">October</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">HKUST — IEDA Department</span>
+              <span class="tloc">Hong Kong</span>
+              <span class="tdate">August</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">INFORMS Revenue Management and Pricing (RMP) Conference</span>
+              <span class="tloc">New York</span>
+              <span class="tdate">July</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">University of Toronto Rotman Young Scholar Seminar Series</span>
+              <span class="tloc">Virtual</span>
+              <span class="tdate">June</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">Marketplace Innovation Workshop</span>
+              <span class="tloc">Virtual</span>
+              <span class="tdate">May</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">University of Chicago — CS Department</span>
+              <span class="tloc">Chicago</span>
+              <span class="tdate">May</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">ISyE-MS&E-IOE Joint Rising Stars Workshop</span>
+              <span class="tloc">Atlanta</span>
+              <span class="tdate">April</span>
+              
+            </div>
+            
+          </div>
+          
+          <div class="talk-yr">
+            <div class="talk-yr-label">2024</div>
+            
+            <div class="titem">
+              <span class="tvenue">INFORMS Annual Meeting</span>
+              <span class="tloc">Seattle, WA</span>
+              <span class="tdate">October</span>
+              <span class="tnote">2 presentations</span>
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">World Congress of the Game Theory Society</span>
+              <span class="tloc">Beijing</span>
+              <span class="tdate">August</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">Gaoling School of AI, Renmin University of China</span>
+              <span class="tloc">Beijing</span>
+              <span class="tdate">August</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">Center on Frontiers of Computing Studies, Peking University</span>
+              <span class="tloc">Beijing</span>
+              <span class="tdate">August</span>
+              
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">ACM EC Conference</span>
+              <span class="tloc">Yale School of Management</span>
+              <span class="tdate">July</span>
+              <span class="tnote">2 presentations</span>
+            </div>
+            
+            <div class="titem">
+              <span class="tvenue">MSOM Conference</span>
+              <span class="tloc">Minneapolis, MN</span>
+              <span class="tdate">July</span>
+              
+            </div>
+            
+          </div>
+          
+          <div class="talk-yr">
+            <div class="talk-yr-label">2023</div>
+            
+            <div class="titem">
+              <span class="tvenue">INFORMS Revenue Management and Pricing (RMP) Conference</span>
+              <span class="tloc">London</span>
+              <span class="tdate">July</span>
+              
+            </div>
+            
+          </div>
+          
+        </section>
+        
+
+        <p style="margin-top:40px;font-size:13px;color:var(--muted2);text-align:center;">&copy; 2026 Yanwei Sun</p>
+
+      </div>
+    </main>
+  </div>
+
+</body>
+</html>
