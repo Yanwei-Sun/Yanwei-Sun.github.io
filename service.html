@@ -169,20 +169,26 @@
     .award-year-r{ color: var(--accent); font-weight: 700; font-size: 13px; margin-left: auto; white-space: nowrap; }
 
     /* Service */
-    .svc-grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; align-items: start; }
+    .svc-grid{ display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
     .svc{
-      padding: 16px 18px; border: 1px solid var(--border);
+      padding: 18px 20px 14px; border: 1px solid var(--border);
       border-radius: var(--radius); background: #ffffff;
     }
     .svc h3{
       font-size: 17px; font-weight: 700; letter-spacing: 0.02em;
-      text-transform: none; color: var(--accent);
-      margin: 0 0 8px; padding-bottom: 6px; border-bottom: 1px solid var(--border);
+      color: var(--accent);
+      margin: 0 0 4px; padding-bottom: 8px; border-bottom: 1px solid var(--border);
     }
-    .svc ul{ padding-left: 1.1rem; margin: 0; }
-    .svc li{ color: var(--muted); font-size: 15px; margin-bottom: 6px; line-height: 1.5; }
-    .svc li:last-child{ margin-bottom: 0; }
-    @media (max-width: 600px){ .svc-grid{ grid-template-columns: 1fr; } }
+    .svc ul{ list-style: none; padding: 0; margin: 0; }
+    .svc li{
+      display: flex; align-items: baseline; gap: 12px;
+      padding: 9px 0; border-bottom: 1px solid var(--border);
+      color: var(--text); font-size: 15px; line-height: 1.5;
+    }
+    .svc li:last-child{ border-bottom: none; padding-bottom: 2px; }
+    .svc-role{ flex: 1; min-width: 0; }
+    .svc-yr{ color: var(--accent); font-weight: 700; font-size: 13px; white-space: nowrap; }
+    @media (max-width: 700px){ .svc-grid{ grid-template-columns: 1fr; } }
 
     /* Talks */
     .talk-yr{ margin-bottom: 18px; }
@@ -269,27 +275,39 @@
         <section>
           <h2>Service</h2>
           <div class="svc-grid">
-            
+
             <div class="svc">
               <h3>Program Committee</h3>
-              <ul><li>ACM Conference on Economics and Computation (EC), 2026</li><li>Conference on Web and Internet Economics (WINE), 2025</li></ul>
+              <ul>
+                <li><span class="svc-role">ACM Conference on Economics and Computation (EC)</span><span class="svc-yr">2026</span></li>
+                <li><span class="svc-role">Conference on Web and Internet Economics (WINE)</span><span class="svc-yr">2025</span></li>
+              </ul>
             </div>
 
             <div class="svc">
               <h3>Award Committee (Judge)</h3>
-              <ul><li>INFORMS Public Sector Operations Research Best Paper Award, 2026</li></ul>
+              <ul>
+                <li><span class="svc-role">INFORMS Public Sector Operations Research Best Paper Award</span><span class="svc-yr">2026</span></li>
+              </ul>
             </div>
-            
-            <div class="svc">
-              <h3>Ad-hoc Journal Reviewer</h3>
-              <ul><li>Naval Research Logistics</li><li>European Journal of Operational Research</li><li>Journal of Behavioral and Experimental Economics</li></ul>
-            </div>
-            
+
             <div class="svc">
               <h3>Conference Reviewer</h3>
-              <ul><li>ACM Conference on Economics and Computation (EC), 2026</li><li>Conference on Web and Internet Economics (WINE), 2025</li></ul>
+              <ul>
+                <li><span class="svc-role">ACM Conference on Economics and Computation (EC)</span><span class="svc-yr">2026</span></li>
+                <li><span class="svc-role">Conference on Web and Internet Economics (WINE)</span><span class="svc-yr">2025</span></li>
+              </ul>
             </div>
-            
+
+            <div class="svc">
+              <h3>Ad-hoc Journal Reviewer</h3>
+              <ul>
+                <li><span class="svc-role">Naval Research Logistics</span></li>
+                <li><span class="svc-role">European Journal of Operational Research</span></li>
+                <li><span class="svc-role">Journal of Behavioral and Experimental Economics</span></li>
+              </ul>
+            </div>
+
           </div>
         </section>
 
