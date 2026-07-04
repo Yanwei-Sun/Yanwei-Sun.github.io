@@ -169,9 +169,9 @@
     .award-year-r{ color: var(--accent); font-weight: 700; font-size: 13px; margin-left: auto; white-space: nowrap; }
 
     /* Service */
-    .svc-grid{ display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    .svc-grid{ display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; align-items: start; }
     .svc{
-      padding: 14px 16px; border: 1px solid var(--border);
+      padding: 16px 18px; border: 1px solid var(--border);
       border-radius: var(--radius); background: #ffffff;
     }
     .svc h3{
@@ -273,6 +273,11 @@
             <div class="svc">
               <h3>Program Committee</h3>
               <ul><li>ACM Conference on Economics and Computation (EC), 2026</li><li>Conference on Web and Internet Economics (WINE), 2025</li></ul>
+            </div>
+
+            <div class="svc">
+              <h3>Award Committee (Judge)</h3>
+              <ul><li>INFORMS Public Sector Operations Research Best Paper Award, 2026</li></ul>
             </div>
             
             <div class="svc">
