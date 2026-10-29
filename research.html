@@ -80,6 +80,10 @@
     .nav a:hover{ background: rgba(37,99,235,0.06); color: var(--text); }
     .nav a.active{ background: rgba(37,99,235,0.10); color: var(--accent); }
 
+    .nav .nav-sub{ margin: 2px 0 6px 29px; }
+    .nav .nav-sub a{ padding: 6px 12px; font-size: 14px; font-weight: 500; }
+    .nav .nav-sub a.on{ color: var(--accent); font-weight: 600; }
+
     .dot{ width: 7px; height: 7px; border-radius: 999px; background: #d1d5db; flex: 0 0 auto; }
     .nav a.active .dot{ background: var(--accent); box-shadow: 0 0 0 3px rgba(37,99,235,0.15); }
 
@@ -151,7 +155,11 @@
     .paper-subs{ margin: 6px 0 0; padding: 0; list-style: none; }
     .paper-sub{ display: flex; align-items: baseline; gap: 7px; font-size: 14px; color: var(--muted); line-height: 1.55; padding: 1px 0; }
     .paper-sub::before{ content: '›'; color: var(--muted2); flex-shrink: 0; font-size: 14px; }
-    .view-toggle{ display: flex; gap: 8px; margin: 0 0 24px; }
+    .top-row{ display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px 16px; margin: 0 0 24px; }
+    .legend{ margin: 0; color: var(--muted2); font-size: 13.5px; }
+    .view-toggle{ display: flex; gap: 8px; }
+    #byTopic section + section{ margin-top: 10px; padding-top: 18px; border-top: 1px solid var(--border); }
+    #byTopic section h2{ margin-bottom: 6px; }
     .view-toggle[hidden]{ display: none; }
     .view-toggle .btn{ padding: 6px 13px; font-size: 13.5px; font-family: inherit; cursor: pointer; }
 
@@ -207,6 +215,8 @@
     .mobile-drawer a{ display: block; padding: 10px 8px; color: var(--muted); font-weight: 700; font-size: 15px; border-bottom: 1px solid var(--border); }
     .mobile-drawer a:last-child{ border-bottom: none; }
     .mobile-drawer a:hover{ color: var(--accent); }
+    .mobile-drawer a.drawer-sub{ padding-left: 24px; font-weight: 500; font-size: 14px; }
+    .mobile-drawer a.drawer-sub.on{ color: var(--accent); }
 
     @media (max-width: 980px){
       .layout{ grid-template-columns: 1fr; }
@@ -236,6 +246,8 @@
   <div class="mobile-drawer" id="mobileDrawer">
     <a href="/"    onclick="toggleMenu()">Home</a>
     <a href="research.html" onclick="toggleMenu()">Research</a>
+    <a href="research.html" class="drawer-sub" data-view="time" onclick="toggleMenu()">By time</a>
+    <a href="research.html#topic" class="drawer-sub" data-view="topic" onclick="toggleMenu()">By topic</a>
     <a href="teaching.html" onclick="toggleMenu()">Teaching</a>
     <a href="awards.html"   onclick="toggleMenu()">Awards</a>
     <a href="service.html"  onclick="toggleMenu()">Service</a>
@@ -252,6 +264,10 @@
       <nav class="nav" aria-label="Site pages">
         <a href="/"    ><span class="dot"></span> Home</a>
         <a href="research.html" class="active"><span class="dot"></span> Research</a>
+        <div class="nav-sub">
+          <a href="research.html" data-view="time">By time</a>
+          <a href="research.html#topic" data-view="topic">By topic</a>
+        </div>
         <a href="teaching.html" ><span class="dot"></span> Teaching</a>
         <a href="awards.html"   ><span class="dot"></span> Awards</a>
         <a href="service.html"  ><span class="dot"></span> Service</a>
@@ -268,16 +284,18 @@
     <main class="content">
       <div class="wrap">
 
-        <div class="view-toggle" id="viewToggle" role="group" aria-label="Order papers" hidden>
-          <button type="button" class="btn primary" data-view="time" aria-pressed="true">By time</button>
-          <button type="button" class="btn" data-view="topic" aria-pressed="false">By topic</button>
+        <div class="top-row">
+          <div class="view-toggle" id="viewToggle" role="group" aria-label="Order papers" hidden>
+            <button type="button" class="btn primary" data-view="time" aria-pressed="true">By time</button>
+            <button type="button" class="btn" data-view="topic" aria-pressed="false">By topic</button>
+          </div>
+          <p class="legend">* equal contribution &nbsp;·&nbsp; (α-β) alphabetical order</p>
         </div>
 
         <div id="byTime">
         <!-- ── Working Papers ── -->
         <section>
           <h2>Working Papers</h2>
-          <p class="subtle-sm">* equal contribution &nbsp;·&nbsp; (α-β) alphabetical order</p>
 
           <div class="paper" data-topic="info">
             <span class="paper-num">•</span>
@@ -470,7 +488,6 @@
           sec.appendChild(p.cloneNode(true));
         });
       });
-      byTopic.querySelector('h2').after(byTime.querySelector('.subtle-sm').cloneNode(true));
 
       function show(view){
         byTime.hidden = (view === 'topic');
@@ -480,15 +497,25 @@
           b.classList.toggle('primary', on);
           b.setAttribute('aria-pressed', on);
         });
+        document.querySelectorAll('a[data-view]').forEach(function(a){
+          a.classList.toggle('on', a.dataset.view === view);
+        });
       }
+
+      function choose(view){
+        show(view);
+        try { history.replaceState(null, '', location.pathname + location.search + (view === 'topic' ? '#topic' : '')); }
+        catch (err) { location.hash = (view === 'topic') ? 'topic' : ''; }
+      }
+
+      document.querySelectorAll('a[data-view]').forEach(function(a){
+        a.addEventListener('click', function(e){ e.preventDefault(); choose(a.dataset.view); window.scrollTo(0, 0); });
+      });
 
       toggle.addEventListener('click', function(e){
         const b = e.target.closest('button');
         if (!b) return;
-        const view = b.dataset.view;
-        show(view);
-        try { history.replaceState(null, '', location.pathname + location.search + (view === 'topic' ? '#topic' : '')); }
-        catch (err) { location.hash = (view === 'topic') ? 'topic' : ''; }
+        choose(b.dataset.view);
       });
       window.addEventListener('hashchange', function(){ show(location.hash === '#topic' ? 'topic' : 'time'); });
 
