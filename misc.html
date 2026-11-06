@@ -218,8 +218,17 @@
     .proj-desc{ margin: 0 0 18px; color: var(--muted); font-size: 16px; max-width: 760px; }
     .proj-fig{ margin: 0 0 22px; }
     .proj-fig img{ display: block; width: 100%; max-width: 860px; height: auto; border: 1px solid var(--border); border-radius: 10px; }
-    .project{ scroll-margin-top: 20px; }
-    .project + .project{ margin-top: 34px; padding-top: 26px; border-top: 1px solid var(--border); }
+    .project{ scroll-margin-top: 20px; border: 1px solid var(--border); border-radius: var(--radius); background: #fff; margin: 0 0 16px; }
+    .project > summary{ list-style: none; cursor: pointer; display: flex; align-items: baseline; flex-wrap: wrap; gap: 6px 12px; padding: 16px 20px; border-radius: var(--radius); }
+    .project > summary::-webkit-details-marker{ display: none; }
+    .project > summary:hover{ background: var(--bg-side); }
+    .proj-chev{ width: 9px; height: 9px; border-right: 2px solid var(--muted2); border-bottom: 2px solid var(--muted2); transform: rotate(-45deg); transition: transform .15s; align-self: center; margin-right: 4px; }
+    .project[open] > summary .proj-chev{ transform: rotate(45deg); }
+    .proj-name{ font-size: 20px; font-weight: 700; letter-spacing: -0.01em; color: var(--text); }
+    .proj-tagline{ color: var(--muted); font-size: 15.5px; }
+    .proj-link{ margin-left: auto; color: var(--accent); font-weight: 600; font-size: 15px; }
+    .proj-link:hover{ text-decoration: underline; }
+    .proj-body{ padding: 0 20px 6px; }
     .proj-index{ display: flex; flex-wrap: wrap; gap: 8px; margin: -6px 0 22px; }
     .proj-index a{ padding: 5px 12px; border: 1px solid var(--border); border-radius: 999px; font-size: 14px; color: var(--muted); background: var(--bg-side); }
     .proj-index a:hover{ color: var(--accent); border-color: rgba(37,99,235,0.3); }
@@ -244,13 +253,14 @@
   </script>
   <script>
     document.addEventListener('DOMContentLoaded', function(){
-      var items = document.querySelectorAll('article.project');
+      var items = document.querySelectorAll('details.project');
       var nav = document.getElementById('projIndex');
       if (!nav || items.length < 2) return;
       items.forEach(function(a){
-        var t = a.querySelector('.proj-title');
-        var name = t ? t.childNodes[0].textContent.trim() : a.id;
+        var t = a.querySelector('.proj-name');
+        var name = t ? t.textContent.trim() : a.id;
         var link = document.createElement('a'); link.href = '#' + a.id; link.textContent = name;
+        link.addEventListener('click', function(){ a.open = true; });
         nav.appendChild(link);
       });
       nav.hidden = false;
@@ -312,15 +322,21 @@
           <nav class="proj-index" id="projIndex" hidden></nav>
 
           <!--
-            To add a project, copy one <article class="project"> block below:
+            To add a project, copy one <details class="project"> block below (add "open" only to the first one):
               id      = short slug (used for links like misc.html#slug)
-              h3      = project name, then " · " and its link(s)
+              summary = project name, a short tagline and its link(s)
               ul      = 2 to 4 bullets (Advantage / key feature ...), each with an optional figure
             Put images and videos in misc/ named <slug>-*.png / .mp4. Newest or most important project first.
           -->
 
-          <article class="project" id="html-slide">
-          <h3 class="proj-title">HTML Slide <span class="proj-sep">·</span> <a href="https://github.com/Yanwei-Sun/html-slide" target="_blank" rel="noopener">GitHub</a></h3>
+          <details class="project" id="html-slide" open>
+            <summary>
+              <span class="proj-chev" aria-hidden="true"></span>
+              <span class="proj-name">HTML Slide</span>
+              <span class="proj-tagline">Research talks as web pages</span>
+              <a class="proj-link" href="https://github.com/Yanwei-Sun/html-slide" target="_blank" rel="noopener">GitHub</a>
+            </summary>
+            <div class="proj-body">
           <ul class="proj-points">
             <li>
               <b>Advantage:</b> the animations of PowerPoint and the math of Beamer, in one web page that runs in any browser.
@@ -335,12 +351,13 @@
                 <li><b>Every comment is tagged</b> with its exact slide and click, so nothing is ambiguous.</li>
                 <li><b>AI agents</b> (e.g., Claude and Codex) pick up new comments, fix the slide, check every click, republish and reply under the comment.</li>
               </ul>
-          </article>
               <figure class="proj-fig">
                 <img src="misc/html-slide-comment.png" alt="A comment on slide 5 with a box marked on the slide and a screenshot attached" loading="lazy">
               </figure>
             </li>
           </ul>
+            </div>
+          </details>
         </section>
 
         <p style="margin-top:40px;font-size:13px;color:var(--muted2);text-align:center;">&copy; 2026 Yanwei Sun</p>
