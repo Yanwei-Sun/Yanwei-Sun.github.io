@@ -218,7 +218,8 @@
     .proj-desc{ margin: 0 0 18px; color: var(--muted); font-size: 16px; max-width: 760px; }
     .proj-fig{ margin: 0 0 22px; }
     .proj-fig img{ display: block; width: 100%; max-width: 860px; height: auto; border: 1px solid var(--border); border-radius: 10px; }
-    .proj-fig.small img{ max-width: 620px; }
+    .proj-fig.small img, .proj-fig.small video{ max-width: 620px; }
+    .proj-fig video{ display: block; width: 100%; height: auto; border: 1px solid var(--border); border-radius: 10px; background: #fff; }
     .proj-sep{ color: var(--muted2); font-weight: 400; margin: 0 4px; }
     .proj-title a{ font-weight: 500; font-size: 16px; }
     .proj-points{ margin: 10px 0 0; padding-left: 1.2rem; max-width: 860px; }
@@ -293,7 +294,7 @@
             <li>
               <b>Advantage:</b> the animations of PowerPoint and the math of Beamer, in one web page that runs in any browser.
               <figure class="proj-fig small">
-                <img src="misc/html-slide-builds.gif" alt="A slide building click by click: points, a price line, a shaded region and math labels appear in turn" loading="lazy">
+                <video src="misc/html-slide-builds.mp4" poster="misc/html-slide-builds-poster.jpg" autoplay muted loop playsinline preload="auto" aria-label="A slide building step by step: lines, shaded regions and math labels animate in, and points move onto a price line"></video>
               </figure>
             </li>
             <li>
