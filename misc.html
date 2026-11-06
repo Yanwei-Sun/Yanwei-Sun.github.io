@@ -212,13 +212,19 @@
       .hero{ grid-template-columns: 1fr; }
     }
     /* Miscellaneous */
-    .proj-title{ font-size: 18px; font-weight: 600; margin: 0 0 6px; }
+    .proj-title{ font-size: 19px; font-weight: 700; margin: 0 0 4px; }
     .proj-title a{ color: var(--accent); }
     .proj-title a:hover{ text-decoration: underline; }
     .proj-desc{ margin: 0 0 18px; color: var(--muted); font-size: 16px; max-width: 760px; }
     .proj-fig{ margin: 0 0 22px; }
     .proj-fig img{ display: block; width: 100%; max-width: 860px; height: auto; border: 1px solid var(--border); border-radius: 10px; }
-    .proj-fig figcaption{ margin-top: 8px; color: var(--muted); font-size: 14.5px; max-width: 860px; }
+    .proj-fig.small img{ max-width: 620px; }
+    .proj-sep{ color: var(--muted2); font-weight: 400; margin: 0 4px; }
+    .proj-title a{ font-weight: 500; font-size: 16px; }
+    .proj-points{ margin: 10px 0 0; padding-left: 1.2rem; max-width: 860px; }
+    .proj-points li{ color: var(--text); font-size: 16px; line-height: 1.6; margin-bottom: 18px; }
+    .proj-points li b{ color: var(--text); }
+    .proj-points .proj-fig{ margin: 12px 0 0; }
   </style>
 
   <script>
@@ -279,18 +285,21 @@
         <section>
           <h2>Fun AI Projects</h2>
 
-          <h3 class="proj-title"><a href="https://github.com/Yanwei-Sun/html-slide" target="_blank" rel="noopener">HTML Slide</a></h3>
-          <p class="proj-desc">Research talks as web pages: PowerPoint-style animations with Beamer-quality math, plus comments that coauthors and AI agents can act on.</p>
-
-          <figure class="proj-fig">
-            <img src="misc/html-slide-comment.png" alt="A comment on slide 5 with a box marked on the slide and a screenshot attached" loading="lazy">
-            <figcaption>Press <b>c</b> on any slide, mark the exact spot and send a comment. Claude Code or Codex can pick it up and fix the slide.</figcaption>
-          </figure>
-
-          <figure class="proj-fig">
-            <img src="misc/html-slide-builds.gif" alt="A slide building click by click: points, a price line, a shaded region and math labels appear in turn" loading="lazy">
-            <figcaption>Click-by-click builds, with math typeset as in Beamer.</figcaption>
-          </figure>
+          <h3 class="proj-title">HTML Slide <span class="proj-sep">·</span> <a href="https://github.com/Yanwei-Sun/html-slide" target="_blank" rel="noopener">GitHub</a></h3>
+          <ul class="proj-points">
+            <li>
+              <b>Advantage:</b> the animations of PowerPoint and the math of Beamer, in one web page that runs in any browser.
+              <figure class="proj-fig small">
+                <img src="misc/html-slide-builds.gif" alt="A slide building click by click: points, a price line, a shaded region and math labels appear in turn" loading="lazy">
+              </figure>
+            </li>
+            <li>
+              <b>New key feature: comments.</b> Press <b>c</b> on any slide, mark the exact spot and send. Coauthors comment from one shared link, and Claude Code or Codex can pick up each comment and fix the slide.
+              <figure class="proj-fig">
+                <img src="misc/html-slide-comment.png" alt="A comment on slide 5 with a box marked on the slide and a screenshot attached" loading="lazy">
+              </figure>
+            </li>
+          </ul>
         </section>
 
         <p style="margin-top:40px;font-size:13px;color:var(--muted2);text-align:center;">&copy; 2026 Yanwei Sun</p>
