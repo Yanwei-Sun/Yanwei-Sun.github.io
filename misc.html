@@ -225,6 +225,9 @@
     .proj-points li{ color: var(--text); font-size: 16px; line-height: 1.6; margin-bottom: 18px; }
     .proj-points li b{ color: var(--text); }
     .proj-points .proj-fig{ margin: 12px 0 0; }
+    .proj-sub{ margin: 6px 0 0; padding-left: 1.2rem; list-style: circle; }
+    .proj-sub li{ margin-bottom: 6px; color: var(--muted); font-size: 15.5px; }
+    .proj-sub li b{ color: var(--text); font-weight: 600; }
   </style>
 
   <script>
@@ -294,7 +297,12 @@
               </figure>
             </li>
             <li>
-              <b>New key feature: comments.</b> Press <b>c</b> on any slide, mark the exact spot and send. Coauthors comment from one shared link, and AI agents (e.g., Claude and Codex) can pick up each comment and fix the slide.
+              <b>New key feature: comments.</b>
+              <ul class="proj-sub">
+                <li><b>Coauthors</b> open one link with a passcode (no account, nothing to install). On any slide they press <b>c</b>, type a comment, draw a box on the exact spot and attach up to four screenshots. They can also edit the speaker script in the browser.</li>
+                <li><b>Every comment is tagged</b> with its exact slide and click, so nothing is ambiguous.</li>
+                <li><b>AI agents</b> (e.g., Claude and Codex) pick up new comments, fix the slide, check every click, republish and reply under the comment.</li>
+              </ul>
               <figure class="proj-fig">
                 <img src="misc/html-slide-comment.png" alt="A comment on slide 5 with a box marked on the slide and a screenshot attached" loading="lazy">
               </figure>
