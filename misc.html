@@ -218,6 +218,11 @@
     .proj-desc{ margin: 0 0 18px; color: var(--muted); font-size: 16px; max-width: 760px; }
     .proj-fig{ margin: 0 0 22px; }
     .proj-fig img{ display: block; width: 100%; max-width: 860px; height: auto; border: 1px solid var(--border); border-radius: 10px; }
+    .project{ scroll-margin-top: 20px; }
+    .project + .project{ margin-top: 34px; padding-top: 26px; border-top: 1px solid var(--border); }
+    .proj-index{ display: flex; flex-wrap: wrap; gap: 8px; margin: -6px 0 22px; }
+    .proj-index a{ padding: 5px 12px; border: 1px solid var(--border); border-radius: 999px; font-size: 14px; color: var(--muted); background: var(--bg-side); }
+    .proj-index a:hover{ color: var(--accent); border-color: rgba(37,99,235,0.3); }
     .proj-fig.small img, .proj-fig.small video{ max-width: 620px; }
     .proj-fig video{ display: block; width: 100%; height: auto; border: 1px solid var(--border); border-radius: 10px; background: #fff; }
     .proj-sep{ color: var(--muted2); font-weight: 400; margin: 0 4px; }
@@ -236,6 +241,20 @@
       const d = document.getElementById('mobileDrawer');
       d.style.display = (d.style.display === 'block') ? 'none' : 'block';
     }
+  </script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function(){
+      var items = document.querySelectorAll('article.project');
+      var nav = document.getElementById('projIndex');
+      if (!nav || items.length < 2) return;
+      items.forEach(function(a){
+        var t = a.querySelector('.proj-title');
+        var name = t ? t.childNodes[0].textContent.trim() : a.id;
+        var link = document.createElement('a'); link.href = '#' + a.id; link.textContent = name;
+        nav.appendChild(link);
+      });
+      nav.hidden = false;
+    });
   </script>
 </head>
 
@@ -289,6 +308,18 @@
         <section>
           <h2>Fun AI Projects</h2>
 
+          <!-- Projects index: built automatically below once there are two or more projects. -->
+          <nav class="proj-index" id="projIndex" hidden></nav>
+
+          <!--
+            To add a project, copy one <article class="project"> block below:
+              id      = short slug (used for links like misc.html#slug)
+              h3      = project name, then " · " and its link(s)
+              ul      = 2 to 4 bullets (Advantage / key feature ...), each with an optional figure
+            Put images and videos in misc/ named <slug>-*.png / .mp4. Newest or most important project first.
+          -->
+
+          <article class="project" id="html-slide">
           <h3 class="proj-title">HTML Slide <span class="proj-sep">·</span> <a href="https://github.com/Yanwei-Sun/html-slide" target="_blank" rel="noopener">GitHub</a></h3>
           <ul class="proj-points">
             <li>
@@ -304,6 +335,7 @@
                 <li><b>Every comment is tagged</b> with its exact slide and click, so nothing is ambiguous.</li>
                 <li><b>AI agents</b> (e.g., Claude and Codex) pick up new comments, fix the slide, check every click, republish and reply under the comment.</li>
               </ul>
+          </article>
               <figure class="proj-fig">
                 <img src="misc/html-slide-comment.png" alt="A comment on slide 5 with a box marked on the slide and a screenshot attached" loading="lazy">
               </figure>
