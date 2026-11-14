@@ -92,7 +92,8 @@
     .wrap{ max-width: var(--content-max); margin: 0 auto; }
 
     /* Home */
-    .hero{ display: grid; grid-template-columns: 420px 1fr; gap: var(--gap); align-items: start; }
+    .hero{ display: grid; grid-template-columns: 1fr 420px; gap: var(--gap); align-items: start; }
+    .hero .photo{ order: 2; }
     .photo{ border-radius: var(--radius); overflow: hidden; border: 1px solid var(--border); }
     .photo img{ display: block; width: 100%; height: auto; }
 
@@ -211,6 +212,7 @@
       .topbar{ display: block; }
       .content{ padding: 18px 16px 50px; }
       .hero{ grid-template-columns: 1fr; }
+      .hero .photo{ order: 0; }
     }
   </style>
 
